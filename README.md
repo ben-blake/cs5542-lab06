@@ -138,9 +138,14 @@ cs5542-lab06/
 │   ├── generate_data.py  # Synthetic data generation
 │   └── ingest.py         # Snowflake ingestion pipeline
 ├── sql/                  # Raw SQL setup scripts
+├── .env.example          
+├── .gitignore
+├── CONTRIBUTIONS_BEN.md
+├── CONTRIBUTIONS_TINA.md
+├── PIPELINE_DIAGRAM.png
 ├── pipeline_logs.csv
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
