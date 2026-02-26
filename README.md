@@ -1,4 +1,4 @@
-# CS 5542 Lab 6 — AI Agent Integration with Antigravity IDE
+# CS 5542 Lab 6 — AI Agent Integration with Antigravity
 
 **Live Dashboard:** TODO
 
