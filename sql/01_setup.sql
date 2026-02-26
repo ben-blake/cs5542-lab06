@@ -1,0 +1,34 @@
+-- CS 5542 Lab 6: Snowflake Setup
+-- Create database, schema, warehouse, and role
+
+-- Create warehouse
+CREATE OR REPLACE WAREHOUSE CYBER_WH
+  WITH WAREHOUSE_SIZE = 'XSMALL'
+  AUTO_SUSPEND = 60
+  AUTO_RESUME = TRUE;
+
+-- Use warehouse
+USE WAREHOUSE CYBER_WH;
+
+-- Create database
+CREATE OR REPLACE DATABASE CYBER_DB;
+
+-- Create schema
+CREATE OR REPLACE SCHEMA CYBER_DB.SECURITY;
+
+-- Switch to database and schema
+USE DATABASE CYBER_DB;
+USE SCHEMA SECURITY;
+
+-- Create role (optional, for production-style setup)
+CREATE OR REPLACE ROLE ANALYST;
+
+-- Grant permissions (optional)
+GRANT USAGE ON WAREHOUSE CYBER_WH TO ROLE ANALYST;
+GRANT USAGE ON DATABASE CYBER_DB TO ROLE ANALYST;
+GRANT USAGE ON SCHEMA CYBER_DB.SECURITY TO ROLE ANALYST;
+
+-- Show current setup
+SHOW DATABASES;
+SHOW SCHEMAS IN DATABASE CYBER_DB;
+SHOW WAREHOUSES;
