@@ -1,0 +1,4 @@
+.env
+private_key.pem
+venv/
+docs/
