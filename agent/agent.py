@@ -77,53 +77,60 @@ def run_agent(user_query: str, conn) -> tuple[str, list[dict]]:
         system_instruction=SYSTEM_PROMPT,
     )
 
-    chat = model.start_chat()
-    response = chat.send_message(user_query)
-    tool_log = []
+    try:
+        chat = model.start_chat()
+        response = chat.send_message(user_query)
+        tool_log = []
 
-    for _ in range(MAX_ITERATIONS):
-        # Collect all function_call parts from this response
-        function_calls = [
-            part.function_call
-            for candidate in response.candidates
-            for part in candidate.content.parts
-            if part.function_call.name  # non-empty name means it's a real call
-        ]
+        for _ in range(MAX_ITERATIONS):
+            # Collect all function_call parts from this response
+            function_calls = [
+                part.function_call
+                for candidate in response.candidates
+                for part in candidate.content.parts
+                if part.function_call.name  # non-empty name means it's a real call
+            ]
 
-        if not function_calls:
-            # No tool calls — Gemini is done, return the text answer
-            return _extract_text(response), tool_log
+            if not function_calls:
+                # No tool calls — Gemini is done, return the text answer
+                return _extract_text(response), tool_log
 
-        # Execute each function call and collect responses
-        tool_responses = []
-        for fc in function_calls:
-            fn = TOOL_DISPATCH.get(fc.name)
-            if fn is None:
-                result = f'{{"error": "Unknown tool: {fc.name}"}}'
-            else:
-                kwargs = dict(fc.args)
-                result = fn(conn, **kwargs)
+            # Execute each function call and collect responses
+            tool_responses = []
+            for fc in function_calls:
+                fn = TOOL_DISPATCH.get(fc.name)
+                if fn is None:
+                    result = f'{{"error": "Unknown tool: {fc.name}"}}'
+                else:
+                    kwargs = dict(fc.args)
+                    result = fn(conn, **kwargs)
 
-            tool_log.append({
-                "tool": fc.name,
-                "args": dict(fc.args),
-                "result_preview": result[:200],
-            })
+                tool_log.append({
+                    "tool": fc.name,
+                    "args": dict(fc.args),
+                    "result_preview": result[:200],
+                })
 
-            tool_responses.append(
-                genai.protos.Part(
-                    function_response=genai.protos.FunctionResponse(
-                        name=fc.name,
-                        response={"result": result},
+                tool_responses.append(
+                    genai.protos.Part(
+                        function_response=genai.protos.FunctionResponse(
+                            name=fc.name,
+                            response={"result": result},
+                        )
                     )
                 )
-            )
 
-        response = chat.send_message(tool_responses)
+            response = chat.send_message(tool_responses)
 
-    # Exhausted iterations — return whatever text we have
-    text = _extract_text(response)
-    return text + "\n\n*(Note: agent reached max reasoning steps)*", tool_log
+        # Exhausted iterations — return whatever text we have
+        text = _extract_text(response)
+        return text + "\n\n*(Note: agent reached max reasoning steps)*", tool_log
+
+    except Exception as e:
+        error_name = type(e).__name__
+        if "ResourceExhausted" in error_name or "429" in str(e):
+            return "Gemini API rate limit reached. Please wait a minute and try again.", []
+        return f"Agent error: {error_name} — {e}", []
 
 
 def _extract_text(response) -> str:
