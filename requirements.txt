@@ -1,0 +1,10 @@
+snowflake-connector-python>=3.12.0
+pandas>=2.2.0
+faker>=22.6.0
+streamlit>=1.32.2
+python-dotenv>=1.0.0
+matplotlib>=3.8.3
+altair>=5.1.2
+cryptography>=41.0.7
+plotly>=5.18.0
+google-generativeai>=0.8.0
