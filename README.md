@@ -2,7 +2,7 @@
 
 **Live Dashboard:** [https://ben-blake-cs5542-lab06-appdashboard-i6x6hv.streamlit.app/](https://ben-blake-cs5542-lab06-appdashboard-i6x6hv.streamlit.app/)
 
-**Demo Video:** TODO
+**Demo Video:** [https://vimeo.com/1170068355](https://vimeo.com/1170068355)
 
 ## System Workflow
 
