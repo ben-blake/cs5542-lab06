@@ -72,7 +72,7 @@ def run_agent(user_query: str, conn) -> tuple[str, list[dict]]:
 
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel(
-        model_name="gemini-3-flash-preview",
+        model_name="gemini-2.5-flash",
         tools=[TOOLS],
         system_instruction=SYSTEM_PROMPT,
     )
