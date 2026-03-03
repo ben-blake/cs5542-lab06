@@ -1,6 +1,6 @@
 # CS 5542 Lab 6 — AI Agent Integration with Antigravity
 
-**Live Dashboard:** TODO
+**Live Dashboard:** [https://ben-blake-cs5542-lab06-appdashboard-i6x6hv.streamlit.app/](https://ben-blake-cs5542-lab06-appdashboard-i6x6hv.streamlit.app/)
 
 **Demo Video:** TODO
 
