@@ -1,0 +1,301 @@
+incident_id,asset_id,incident_type,severity,detected_at,resolved_at,attack_vector,kill_chain_phase,threat_actor_id
+INC00001,AST0089,Insider Threat,Critical,2025-11-07 11:32:21,,Web Application,Exploitation,TA050
+INC00002,AST0035,Unauthorized Access,Medium,2026-01-01 11:32:21,2026-01-29 14:32:21,Supply Chain,Delivery,TA040
+INC00003,AST0183,Data Breach,High,2025-03-24 11:32:21,2025-04-18 22:32:21,Physical,Command & Control,TA003
+INC00004,AST0189,Insider Threat,Medium,2025-03-22 11:32:21,,Email,Exploitation,TA027
+INC00005,AST0095,Phishing,Medium,2025-10-14 11:32:21,2025-10-23 21:32:21,Web Application,Command & Control,TA015
+INC00006,AST0184,Phishing,High,2025-11-27 11:32:21,2025-12-07 11:32:21,Network,Actions on Objectives,TA016
+INC00007,AST0005,Data Breach,Low,2025-10-20 11:32:21,2025-11-06 03:32:21,Supply Chain,Actions on Objectives,TA028
+INC00008,AST0005,DDoS Attack,Medium,2025-08-22 11:32:21,2025-09-16 21:32:21,Social Engineering,Actions on Objectives,TA031
+INC00009,AST0148,Phishing,High,2025-04-14 11:32:21,,Physical,Command & Control,TA034
+INC00010,AST0116,Unauthorized Access,Critical,2025-12-12 11:32:21,2026-01-05 23:32:21,Network,Command & Control,TA004
+INC00011,AST0058,Insider Threat,Critical,2025-06-10 11:32:21,,Web Application,Delivery,TA045
+INC00012,AST0109,DDoS Attack,Low,2025-07-09 11:32:21,,Supply Chain,Delivery,TA031
+INC00013,AST0018,Malware Detection,Critical,2025-08-04 11:32:21,2025-08-04 17:32:21,Web Application,Reconnaissance,TA025
+INC00014,AST0052,Insider Threat,Critical,2025-04-25 11:32:21,2025-05-04 17:32:21,Network,Reconnaissance,TA037
+INC00015,AST0090,Phishing,Low,2025-06-28 11:32:21,2025-07-10 18:32:21,Physical,Actions on Objectives,TA032
+INC00016,AST0060,Malware Detection,Medium,2025-04-18 11:32:21,2025-05-08 01:32:21,Supply Chain,Delivery,TA044
+INC00017,AST0019,Insider Threat,Critical,2025-04-30 11:32:21,2025-05-19 00:32:21,Supply Chain,Exploitation,TA025
+INC00018,AST0170,Phishing,Low,2025-06-17 11:32:21,2025-07-08 21:32:21,Supply Chain,Weaponization,TA012
+INC00019,AST0051,Unauthorized Access,High,2025-09-25 11:32:21,,Supply Chain,Actions on Objectives,TA018
+INC00020,AST0063,DDoS Attack,High,2025-04-14 11:32:21,2025-05-01 19:32:21,Physical,Weaponization,TA013
+INC00021,AST0012,Insider Threat,Low,2025-05-04 11:32:21,,Network,Exploitation,TA015
+INC00022,AST0187,Malware Detection,Low,2025-09-17 11:32:21,2025-10-03 22:32:21,Social Engineering,Exploitation,TA011
+INC00023,AST0103,Phishing,Medium,2025-06-23 11:32:21,2025-07-08 15:32:21,Network,Command & Control,TA023
+INC00024,AST0187,Phishing,Medium,2025-11-08 11:32:21,,Social Engineering,Installation,TA018
+INC00025,AST0184,Data Breach,Medium,2025-06-14 11:32:21,2025-07-04 22:32:21,Web Application,Reconnaissance,TA033
+INC00026,AST0019,Phishing,Medium,2025-07-16 11:32:21,2025-07-31 22:32:21,Web Application,Weaponization,TA036
+INC00027,AST0173,Unauthorized Access,Medium,2026-01-18 11:32:21,,Supply Chain,Exploitation,TA012
+INC00028,AST0117,Malware Detection,Critical,2025-09-06 11:32:21,,Web Application,Command & Control,TA038
+INC00029,AST0199,Malware Detection,Low,2025-04-28 11:32:21,,Physical,Weaponization,TA039
+INC00030,AST0055,Malware Detection,Medium,2025-07-23 11:32:21,2025-08-18 06:32:21,Web Application,Reconnaissance,TA018
+INC00031,AST0066,Unauthorized Access,Critical,2025-11-20 11:32:21,2025-12-15 10:32:21,Web Application,Exploitation,TA032
+INC00032,AST0062,DDoS Attack,Medium,2025-04-24 11:32:21,,Web Application,Weaponization,TA007
+INC00033,AST0103,Unauthorized Access,Low,2025-06-13 11:32:21,2025-06-20 10:32:21,Physical,Exploitation,TA004
+INC00034,AST0127,DDoS Attack,Low,2025-07-06 11:32:21,2025-07-11 16:32:21,Social Engineering,Command & Control,TA027
+INC00035,AST0110,Unauthorized Access,Medium,2025-05-10 11:32:21,2025-05-19 05:32:21,Network,Exploitation,TA009
+INC00036,AST0179,Unauthorized Access,Low,2025-05-28 11:32:21,2025-06-08 05:32:21,Web Application,Weaponization,TA015
+INC00037,AST0198,Unauthorized Access,Critical,2025-03-23 11:32:21,2025-04-17 15:32:21,Network,Command & Control,TA009
+INC00038,AST0004,Unauthorized Access,Low,2025-12-06 11:32:21,,Web Application,Weaponization,TA014
+INC00039,AST0043,DDoS Attack,Critical,2025-07-14 11:32:21,2025-07-16 04:32:21,Social Engineering,Installation,TA038
+INC00040,AST0167,Phishing,Low,2025-08-22 11:32:21,,Supply Chain,Weaponization,TA023
+INC00041,AST0022,DDoS Attack,Low,2025-03-04 11:32:21,,Network,Actions on Objectives,TA002
+INC00042,AST0072,Unauthorized Access,Medium,2026-01-18 11:32:21,2026-02-07 02:32:21,Network,Delivery,TA007
+INC00043,AST0154,Phishing,Medium,2025-09-26 11:32:21,2025-10-22 16:32:21,Network,Installation,TA045
+INC00044,AST0114,Unauthorized Access,Low,2025-05-08 11:32:21,,Physical,Actions on Objectives,TA044
+INC00045,AST0084,Unauthorized Access,Critical,2025-10-05 11:32:21,,Social Engineering,Delivery,TA041
+INC00046,AST0127,Data Breach,Low,2025-05-15 11:32:21,2025-06-05 12:32:21,Network,Weaponization,TA039
+INC00047,AST0023,DDoS Attack,Low,2025-11-06 11:32:21,2025-11-11 20:32:21,Supply Chain,Weaponization,TA028
+INC00048,AST0051,Malware Detection,Medium,2025-11-06 11:32:21,2025-11-19 08:32:21,Physical,Weaponization,TA012
+INC00049,AST0007,Unauthorized Access,Critical,2025-03-19 11:32:21,,Web Application,Reconnaissance,TA014
+INC00050,AST0031,Data Breach,Medium,2025-08-08 11:32:21,2025-08-19 02:32:21,Email,Installation,TA048
+INC00051,AST0075,Malware Detection,Medium,2025-08-12 11:32:21,2025-09-01 05:32:21,Network,Command & Control,TA042
+INC00052,AST0161,Phishing,Critical,2025-04-11 11:32:21,2025-04-11 12:32:21,Email,Installation,TA032
+INC00053,AST0106,DDoS Attack,Critical,2025-09-04 11:32:21,2025-09-09 14:32:21,Physical,Weaponization,TA040
+INC00054,AST0109,Malware Detection,Medium,2025-11-05 11:32:21,2025-11-12 12:32:21,Physical,Installation,TA004
+INC00055,AST0019,Insider Threat,Critical,2025-04-09 11:32:21,2025-05-01 02:32:21,Network,Reconnaissance,TA008
+INC00056,AST0062,DDoS Attack,Medium,2025-07-11 11:32:21,,Supply Chain,Delivery,TA017
+INC00057,AST0160,DDoS Attack,Medium,2025-05-29 11:32:21,,Social Engineering,Installation,TA046
+INC00058,AST0012,Data Breach,Low,2025-05-04 11:32:21,2025-05-06 03:32:21,Network,Weaponization,TA044
+INC00059,AST0046,Unauthorized Access,Low,2025-08-11 11:32:21,2025-08-27 01:32:21,Email,Actions on Objectives,TA020
+INC00060,AST0041,Data Breach,Critical,2025-06-02 11:32:21,2025-06-07 14:32:21,Supply Chain,Command & Control,TA037
+INC00061,AST0195,Unauthorized Access,Low,2025-11-10 11:32:21,2025-12-05 01:32:21,Physical,Actions on Objectives,TA016
+INC00062,AST0120,Data Breach,Medium,2025-11-15 11:32:21,2025-12-04 20:32:21,Network,Exploitation,TA006
+INC00063,AST0137,Data Breach,Low,2025-11-11 11:32:21,2025-11-18 01:32:21,Email,Actions on Objectives,TA049
+INC00064,AST0117,Data Breach,Critical,2025-04-13 11:32:21,2025-05-02 16:32:21,Email,Actions on Objectives,TA028
+INC00065,AST0182,Insider Threat,Critical,2025-09-05 11:32:21,2025-09-18 12:32:21,Physical,Actions on Objectives,TA022
+INC00066,AST0004,Malware Detection,High,2025-06-26 11:32:21,,Web Application,Command & Control,TA008
+INC00067,AST0077,Malware Detection,Low,2026-01-19 11:32:21,,Social Engineering,Delivery,TA021
+INC00068,AST0026,Insider Threat,Medium,2025-03-14 11:32:21,2025-04-06 11:32:21,Supply Chain,Installation,TA033
+INC00069,AST0119,Insider Threat,High,2025-05-22 11:32:21,2025-06-09 06:32:21,Network,Exploitation,TA016
+INC00070,AST0064,Malware Detection,High,2025-08-29 11:32:21,2025-09-15 09:32:21,Supply Chain,Reconnaissance,TA040
+INC00071,AST0189,DDoS Attack,Low,2025-06-16 11:32:21,2025-06-19 13:32:21,Physical,Delivery,TA047
+INC00072,AST0142,Data Breach,Medium,2025-07-29 11:32:21,,Physical,Command & Control,TA032
+INC00073,AST0140,Unauthorized Access,Low,2025-12-06 11:32:21,2025-12-10 22:32:21,Physical,Exploitation,TA039
+INC00074,AST0169,DDoS Attack,High,2025-11-26 11:32:21,,Web Application,Command & Control,TA022
+INC00075,AST0062,Phishing,Critical,2025-10-20 11:32:21,2025-10-25 21:32:21,Web Application,Delivery,TA025
+INC00076,AST0114,Phishing,Critical,2025-08-09 11:32:21,,Web Application,Installation,TA010
+INC00077,AST0038,Insider Threat,Critical,2025-09-25 11:32:21,,Social Engineering,Reconnaissance,TA036
+INC00078,AST0099,Malware Detection,Low,2025-12-17 11:32:21,2025-12-23 23:32:21,Supply Chain,Weaponization,TA006
+INC00079,AST0106,Malware Detection,Critical,2025-07-23 11:32:21,2025-08-08 20:32:21,Network,Command & Control,TA036
+INC00080,AST0023,Phishing,Medium,2025-02-21 11:32:21,,Supply Chain,Exploitation,TA036
+INC00081,AST0049,DDoS Attack,Critical,2025-03-31 11:32:21,2025-04-29 13:32:21,Web Application,Reconnaissance,TA048
+INC00082,AST0153,DDoS Attack,Medium,2026-02-08 11:32:21,2026-02-09 21:32:21,Email,Command & Control,TA029
+INC00083,AST0020,Insider Threat,High,2025-10-22 11:32:21,2025-11-02 10:32:21,Web Application,Weaponization,TA042
+INC00084,AST0157,Unauthorized Access,Critical,2026-01-28 11:32:21,2026-01-29 00:32:21,Web Application,Reconnaissance,TA012
+INC00085,AST0128,Phishing,Low,2025-05-01 11:32:21,,Web Application,Delivery,TA013
+INC00086,AST0175,Data Breach,Medium,2025-07-08 11:32:21,2025-07-13 04:32:21,Web Application,Delivery,TA050
+INC00087,AST0048,Insider Threat,Critical,2025-11-11 11:32:21,,Physical,Reconnaissance,TA017
+INC00088,AST0129,Phishing,Medium,2025-08-10 11:32:21,2025-08-26 03:32:21,Social Engineering,Reconnaissance,TA023
+INC00089,AST0191,Data Breach,Low,2025-10-19 11:32:21,,Network,Weaponization,TA003
+INC00090,AST0159,Malware Detection,Low,2025-08-08 11:32:21,2025-08-15 02:32:21,Network,Reconnaissance,TA030
+INC00091,AST0147,Phishing,Medium,2025-04-17 11:32:21,2025-04-29 04:32:21,Physical,Delivery,TA005
+INC00092,AST0102,Data Breach,Low,2025-07-24 11:32:21,2025-08-14 21:32:21,Email,Reconnaissance,TA005
+INC00093,AST0112,Phishing,Low,2025-06-05 11:32:21,2025-06-14 04:32:21,Physical,Reconnaissance,TA042
+INC00094,AST0194,Data Breach,Medium,2025-04-06 11:32:21,,Social Engineering,Delivery,TA012
+INC00095,AST0189,Phishing,High,2025-06-21 11:32:21,2025-06-27 08:32:21,Physical,Weaponization,TA027
+INC00096,AST0178,Malware Detection,High,2026-02-03 11:32:21,2026-03-05 06:32:21,Social Engineering,Actions on Objectives,TA040
+INC00097,AST0148,Data Breach,Low,2025-06-04 11:32:21,,Social Engineering,Command & Control,TA029
+INC00098,AST0140,Malware Detection,Critical,2026-02-06 11:32:21,,Email,Delivery,TA034
+INC00099,AST0198,Malware Detection,Critical,2025-02-28 11:32:21,2025-03-06 11:32:21,Social Engineering,Delivery,TA039
+INC00100,AST0131,Data Breach,Low,2025-07-18 11:32:21,2025-07-26 10:32:21,Physical,Reconnaissance,TA046
+INC00101,AST0049,Phishing,Medium,2025-11-12 11:32:21,2025-12-03 13:32:21,Supply Chain,Delivery,TA019
+INC00102,AST0154,Malware Detection,Critical,2025-05-05 11:32:21,,Supply Chain,Reconnaissance,TA045
+INC00103,AST0190,Phishing,Low,2025-12-05 11:32:21,,Email,Actions on Objectives,TA012
+INC00104,AST0178,Phishing,Medium,2025-06-04 11:32:21,,Email,Actions on Objectives,TA008
+INC00105,AST0125,Data Breach,Low,2025-06-08 11:32:21,,Supply Chain,Actions on Objectives,TA045
+INC00106,AST0115,Malware Detection,Medium,2026-01-17 11:32:21,,Supply Chain,Installation,TA012
+INC00107,AST0188,Insider Threat,Critical,2025-02-22 11:32:21,2025-02-24 04:32:21,Social Engineering,Installation,TA003
+INC00108,AST0180,Malware Detection,Medium,2025-11-10 11:32:21,2025-11-29 12:32:21,Physical,Installation,TA026
+INC00109,AST0090,Insider Threat,Critical,2025-02-18 11:32:21,,Web Application,Command & Control,TA012
+INC00110,AST0145,Data Breach,Low,2025-07-26 11:32:21,,Supply Chain,Weaponization,TA005
+INC00111,AST0116,Unauthorized Access,Critical,2025-08-17 11:32:21,2025-08-29 00:32:21,Email,Command & Control,TA023
+INC00112,AST0037,Malware Detection,Critical,2026-02-08 11:32:21,2026-02-10 09:32:21,Web Application,Command & Control,TA022
+INC00113,AST0014,Phishing,Medium,2025-03-19 11:32:21,,Physical,Installation,TA044
+INC00114,AST0022,Unauthorized Access,Critical,2026-01-25 11:32:21,,Email,Weaponization,TA040
+INC00115,AST0005,Phishing,Medium,2025-04-13 11:32:21,2025-04-18 07:32:21,Physical,Installation,TA048
+INC00116,AST0143,Data Breach,Critical,2025-06-04 11:32:21,2025-06-30 10:32:21,Network,Reconnaissance,TA037
+INC00117,AST0083,Malware Detection,Critical,2026-01-12 11:32:21,,Network,Exploitation,TA026
+INC00118,AST0124,DDoS Attack,Medium,2025-04-12 11:32:21,2025-05-09 17:32:21,Supply Chain,Exploitation,TA013
+INC00119,AST0011,Phishing,High,2025-08-18 11:32:21,2025-09-03 09:32:21,Web Application,Actions on Objectives,TA019
+INC00120,AST0118,Unauthorized Access,Critical,2026-01-31 11:32:21,2026-02-21 03:32:21,Supply Chain,Exploitation,TA023
+INC00121,AST0089,Phishing,Medium,2025-04-08 11:32:21,2025-04-26 13:32:21,Physical,Command & Control,TA002
+INC00122,AST0036,Malware Detection,Critical,2025-04-10 11:32:21,2025-04-18 17:32:21,Network,Exploitation,TA001
+INC00123,AST0172,Malware Detection,Medium,2025-03-12 11:32:21,,Network,Weaponization,TA020
+INC00124,AST0056,Malware Detection,Medium,2025-11-24 11:32:21,2025-12-01 03:32:21,Supply Chain,Exploitation,TA004
+INC00125,AST0047,Phishing,Low,2025-11-26 11:32:21,,Web Application,Reconnaissance,TA045
+INC00126,AST0147,Unauthorized Access,High,2025-05-23 11:32:21,2025-06-20 19:32:21,Social Engineering,Exploitation,TA047
+INC00127,AST0196,Insider Threat,Critical,2025-05-02 11:32:21,2025-05-20 13:32:21,Email,Exploitation,TA042
+INC00128,AST0103,Malware Detection,Critical,2025-05-29 11:32:21,2025-06-20 05:32:21,Web Application,Actions on Objectives,TA047
+INC00129,AST0075,DDoS Attack,Critical,2025-04-23 11:32:21,2025-05-17 10:32:21,Supply Chain,Installation,TA046
+INC00130,AST0063,Malware Detection,Medium,2025-05-25 11:32:21,,Supply Chain,Reconnaissance,TA039
+INC00131,AST0027,Malware Detection,High,2025-02-21 11:32:21,,Email,Command & Control,TA014
+INC00132,AST0087,Unauthorized Access,High,2025-06-08 11:32:21,2025-06-30 16:32:21,Physical,Installation,TA012
+INC00133,AST0144,DDoS Attack,Medium,2025-06-04 11:32:21,2025-06-25 23:32:21,Social Engineering,Installation,TA050
+INC00134,AST0001,Unauthorized Access,Low,2025-03-11 11:32:21,2025-04-01 15:32:21,Web Application,Weaponization,TA027
+INC00135,AST0030,Malware Detection,Critical,2025-08-01 11:32:21,2025-08-21 02:32:21,Physical,Weaponization,TA022
+INC00136,AST0175,Phishing,Critical,2025-09-05 11:32:21,2025-09-17 02:32:21,Social Engineering,Installation,TA025
+INC00137,AST0025,DDoS Attack,Critical,2025-08-13 11:32:21,,Social Engineering,Command & Control,TA008
+INC00138,AST0015,Insider Threat,Low,2025-05-25 11:32:21,2025-06-23 13:32:21,Supply Chain,Delivery,TA035
+INC00139,AST0185,Insider Threat,Low,2025-12-21 11:32:21,2026-01-03 07:32:21,Email,Weaponization,TA040
+INC00140,AST0098,Phishing,Medium,2025-04-09 11:32:21,2025-04-26 08:32:21,Social Engineering,Weaponization,TA013
+INC00141,AST0117,Data Breach,High,2025-10-25 11:32:21,,Supply Chain,Exploitation,TA029
+INC00142,AST0086,Insider Threat,Low,2025-06-13 11:32:21,2025-07-02 06:32:21,Web Application,Delivery,TA033
+INC00143,AST0183,Data Breach,Medium,2025-05-18 11:32:21,2025-06-03 04:32:21,Social Engineering,Delivery,TA045
+INC00144,AST0188,Phishing,Critical,2025-06-25 11:32:21,2025-06-29 08:32:21,Supply Chain,Installation,TA049
+INC00145,AST0093,Unauthorized Access,Low,2025-07-11 11:32:21,,Network,Exploitation,TA032
+INC00146,AST0044,Phishing,High,2025-03-20 11:32:21,,Network,Installation,TA035
+INC00147,AST0151,DDoS Attack,Medium,2025-06-18 11:32:21,2025-06-30 23:32:21,Web Application,Reconnaissance,TA047
+INC00148,AST0118,Malware Detection,Medium,2025-05-19 11:32:21,,Social Engineering,Weaponization,TA029
+INC00149,AST0003,Data Breach,Medium,2025-09-02 11:32:21,,Network,Reconnaissance,TA010
+INC00150,AST0140,Phishing,High,2025-08-07 11:32:21,2025-08-19 01:32:21,Supply Chain,Exploitation,TA032
+INC00151,AST0139,Unauthorized Access,Medium,2025-08-18 11:32:21,,Web Application,Reconnaissance,TA016
+INC00152,AST0045,DDoS Attack,Low,2025-12-23 11:32:21,,Network,Reconnaissance,TA003
+INC00153,AST0056,DDoS Attack,Low,2025-06-12 11:32:21,2025-07-01 06:32:21,Email,Delivery,TA027
+INC00154,AST0031,Phishing,Critical,2025-06-04 11:32:21,2025-06-19 08:32:21,Web Application,Exploitation,TA037
+INC00155,AST0104,Unauthorized Access,Medium,2025-10-14 11:32:21,2025-10-29 21:32:21,Physical,Exploitation,TA040
+INC00156,AST0125,Phishing,Low,2025-06-22 11:32:21,,Network,Installation,TA038
+INC00157,AST0056,DDoS Attack,Medium,2025-09-06 11:32:21,2025-09-22 05:32:21,Web Application,Reconnaissance,TA029
+INC00158,AST0157,Malware Detection,High,2026-01-15 11:32:21,,Physical,Reconnaissance,TA008
+INC00159,AST0025,DDoS Attack,Medium,2026-01-28 11:32:21,,Supply Chain,Command & Control,TA045
+INC00160,AST0130,Phishing,Medium,2025-06-29 11:32:21,2025-07-13 22:32:21,Physical,Installation,TA003
+INC00161,AST0153,Data Breach,Medium,2025-04-01 11:32:21,2025-04-11 08:32:21,Social Engineering,Reconnaissance,TA005
+INC00162,AST0100,Data Breach,Medium,2025-11-12 11:32:21,2025-11-25 08:32:21,Supply Chain,Actions on Objectives,TA014
+INC00163,AST0008,Insider Threat,Low,2025-09-26 11:32:21,2025-10-09 05:32:21,Supply Chain,Command & Control,TA034
+INC00164,AST0164,DDoS Attack,Medium,2025-09-13 11:32:21,2025-09-17 19:32:21,Web Application,Reconnaissance,TA030
+INC00165,AST0008,Data Breach,Medium,2025-04-05 11:32:21,2025-04-30 05:32:21,Network,Command & Control,TA001
+INC00166,AST0136,Malware Detection,High,2025-04-22 11:32:21,2025-04-30 20:32:21,Email,Command & Control,TA014
+INC00167,AST0021,DDoS Attack,Medium,2025-05-10 11:32:21,2025-05-26 12:32:21,Physical,Delivery,TA039
+INC00168,AST0097,Phishing,Medium,2025-04-30 11:32:21,,Network,Installation,TA002
+INC00169,AST0197,Data Breach,Low,2025-08-10 11:32:21,2025-08-13 07:32:21,Physical,Installation,TA031
+INC00170,AST0052,Data Breach,High,2025-05-27 11:32:21,2025-06-18 19:32:21,Physical,Command & Control,TA043
+INC00171,AST0173,Unauthorized Access,Critical,2025-12-05 11:32:21,2025-12-06 12:32:21,Network,Delivery,TA016
+INC00172,AST0046,Data Breach,High,2025-06-05 11:32:21,,Web Application,Delivery,TA045
+INC00173,AST0048,Unauthorized Access,High,2025-05-30 11:32:21,2025-06-04 09:32:21,Supply Chain,Exploitation,TA027
+INC00174,AST0086,Data Breach,Low,2025-12-16 11:32:21,2025-12-26 03:32:21,Email,Weaponization,TA042
+INC00175,AST0195,Malware Detection,Medium,2026-01-10 11:32:21,,Social Engineering,Reconnaissance,TA035
+INC00176,AST0054,Insider Threat,High,2025-08-07 11:32:21,2025-08-09 22:32:21,Supply Chain,Delivery,TA042
+INC00177,AST0130,Insider Threat,High,2025-06-18 11:32:21,2025-07-08 15:32:21,Physical,Command & Control,TA011
+INC00178,AST0001,DDoS Attack,Low,2025-12-16 11:32:21,2026-01-01 06:32:21,Email,Installation,TA027
+INC00179,AST0066,Malware Detection,Critical,2025-09-06 11:32:21,2025-09-08 08:32:21,Physical,Weaponization,TA007
+INC00180,AST0123,Data Breach,Critical,2025-10-27 11:32:21,,Physical,Reconnaissance,TA023
+INC00181,AST0054,Malware Detection,High,2025-09-18 11:32:21,2025-10-13 22:32:21,Web Application,Delivery,TA041
+INC00182,AST0025,Data Breach,Low,2026-01-18 11:32:21,,Web Application,Command & Control,TA010
+INC00183,AST0070,Insider Threat,Low,2025-03-29 11:32:21,2025-04-21 16:32:21,Supply Chain,Installation,TA047
+INC00184,AST0023,Unauthorized Access,Critical,2025-06-03 11:32:21,,Social Engineering,Actions on Objectives,TA019
+INC00185,AST0136,DDoS Attack,Low,2026-02-08 11:32:21,2026-03-06 16:32:21,Social Engineering,Command & Control,TA024
+INC00186,AST0120,Data Breach,High,2025-08-02 11:32:21,2025-08-12 18:32:21,Network,Command & Control,TA042
+INC00187,AST0170,Unauthorized Access,Critical,2025-10-18 11:32:21,,Email,Installation,TA010
+INC00188,AST0026,Data Breach,High,2025-06-17 11:32:21,2025-07-05 23:32:21,Physical,Weaponization,TA018
+INC00189,AST0115,Malware Detection,Medium,2025-10-28 11:32:21,,Physical,Installation,TA047
+INC00190,AST0122,Data Breach,Low,2025-09-28 11:32:21,,Email,Reconnaissance,TA037
+INC00191,AST0111,Unauthorized Access,Critical,2025-03-31 11:32:21,2025-04-29 21:32:21,Supply Chain,Weaponization,TA008
+INC00192,AST0139,Malware Detection,Medium,2025-06-08 11:32:21,2025-06-21 07:32:21,Physical,Weaponization,TA005
+INC00193,AST0132,Data Breach,High,2025-05-13 11:32:21,2025-05-14 05:32:21,Web Application,Weaponization,TA015
+INC00194,AST0127,Unauthorized Access,Medium,2025-06-15 11:32:21,,Social Engineering,Actions on Objectives,TA027
+INC00195,AST0017,Insider Threat,Critical,2025-08-15 11:32:21,2025-08-30 19:32:21,Network,Installation,TA006
+INC00196,AST0061,Phishing,Low,2026-02-02 11:32:21,2026-03-03 22:32:21,Web Application,Exploitation,TA014
+INC00197,AST0195,Data Breach,Low,2025-10-05 11:32:21,2025-10-21 15:32:21,Email,Exploitation,TA022
+INC00198,AST0096,Insider Threat,Critical,2025-06-01 11:32:21,,Social Engineering,Installation,TA015
+INC00199,AST0193,Data Breach,Medium,2025-09-12 11:32:21,2025-10-01 21:32:21,Supply Chain,Actions on Objectives,TA017
+INC00200,AST0147,Unauthorized Access,Medium,2026-02-09 11:32:21,,Web Application,Actions on Objectives,TA012
+INC00201,AST0166,Unauthorized Access,High,2025-05-07 11:32:21,2025-05-11 17:32:21,Web Application,Command & Control,TA044
+INC00202,AST0060,Phishing,Low,2026-02-15 11:32:21,,Network,Exploitation,TA035
+INC00203,AST0179,Unauthorized Access,Critical,2025-09-07 11:32:21,2025-09-19 21:32:21,Network,Weaponization,TA047
+INC00204,AST0178,Data Breach,High,2025-03-12 11:32:21,2025-03-24 02:32:21,Web Application,Reconnaissance,TA016
+INC00205,AST0089,DDoS Attack,High,2025-10-10 11:32:21,2025-10-15 12:32:21,Supply Chain,Installation,TA049
+INC00206,AST0017,DDoS Attack,Medium,2025-09-29 11:32:21,2025-10-04 23:32:21,Email,Exploitation,TA010
+INC00207,AST0080,Malware Detection,Low,2025-08-19 11:32:21,,Network,Weaponization,TA038
+INC00208,AST0183,DDoS Attack,Medium,2025-05-26 11:32:21,2025-06-01 09:32:21,Email,Delivery,TA026
+INC00209,AST0097,Unauthorized Access,Critical,2025-10-02 11:32:21,,Network,Delivery,TA033
+INC00210,AST0179,Data Breach,Low,2025-07-22 11:32:21,2025-08-01 02:32:21,Network,Command & Control,TA048
+INC00211,AST0120,Phishing,Critical,2026-01-25 11:32:21,2026-02-08 19:32:21,Physical,Delivery,TA006
+INC00212,AST0161,Insider Threat,Low,2025-12-26 11:32:21,2026-01-06 23:32:21,Web Application,Reconnaissance,TA002
+INC00213,AST0039,Data Breach,Low,2025-09-21 11:32:21,2025-10-17 16:32:21,Physical,Installation,TA046
+INC00214,AST0051,DDoS Attack,Medium,2025-12-02 11:32:21,2025-12-06 09:32:21,Web Application,Delivery,TA003
+INC00215,AST0193,Phishing,Medium,2025-04-07 11:32:21,2025-04-11 23:32:21,Email,Weaponization,TA039
+INC00216,AST0139,Unauthorized Access,High,2025-08-08 11:32:21,,Web Application,Weaponization,TA037
+INC00217,AST0199,Malware Detection,Medium,2025-05-07 11:32:21,2025-05-15 14:32:21,Supply Chain,Command & Control,TA001
+INC00218,AST0057,Unauthorized Access,High,2025-04-07 11:32:21,2025-04-19 12:32:21,Social Engineering,Reconnaissance,TA025
+INC00219,AST0093,Data Breach,Critical,2025-07-12 11:32:21,2025-07-31 16:32:21,Physical,Actions on Objectives,TA020
+INC00220,AST0081,Phishing,Low,2026-01-04 11:32:21,2026-01-15 09:32:21,Web Application,Reconnaissance,TA007
+INC00221,AST0101,Unauthorized Access,Low,2025-06-14 11:32:21,,Supply Chain,Weaponization,TA030
+INC00222,AST0122,Malware Detection,High,2025-10-28 11:32:21,,Social Engineering,Weaponization,TA021
+INC00223,AST0051,Unauthorized Access,Medium,2025-06-04 11:32:21,2025-06-22 01:32:21,Network,Delivery,TA036
+INC00224,AST0032,Insider Threat,Low,2025-08-09 11:32:21,2025-09-03 15:32:21,Physical,Command & Control,TA036
+INC00225,AST0136,DDoS Attack,High,2025-04-23 11:32:21,2025-05-14 13:32:21,Email,Command & Control,TA028
+INC00226,AST0179,Unauthorized Access,Critical,2025-03-14 11:32:21,2025-03-18 16:32:21,Supply Chain,Delivery,TA018
+INC00227,AST0136,DDoS Attack,Low,2025-04-23 11:32:21,2025-05-17 20:32:21,Web Application,Command & Control,TA033
+INC00228,AST0148,Malware Detection,Critical,2025-07-14 11:32:21,2025-07-30 09:32:21,Email,Exploitation,TA045
+INC00229,AST0163,Data Breach,High,2025-05-15 11:32:21,2025-06-02 06:32:21,Network,Installation,TA042
+INC00230,AST0161,Insider Threat,High,2026-02-17 11:32:21,2026-03-17 13:32:21,Social Engineering,Exploitation,TA043
+INC00231,AST0067,Unauthorized Access,Low,2025-12-15 11:32:21,2026-01-12 14:32:21,Supply Chain,Weaponization,TA014
+INC00232,AST0053,Phishing,Medium,2025-09-30 11:32:21,2025-10-03 21:32:21,Web Application,Installation,TA028
+INC00233,AST0144,Unauthorized Access,Critical,2025-04-30 11:32:21,2025-05-08 08:32:21,Web Application,Exploitation,TA024
+INC00234,AST0031,Insider Threat,Medium,2025-09-14 11:32:21,,Supply Chain,Exploitation,TA044
+INC00235,AST0183,Phishing,Medium,2025-09-19 11:32:21,2025-10-18 01:32:21,Web Application,Exploitation,TA019
+INC00236,AST0149,Malware Detection,Low,2025-05-05 11:32:21,2025-05-30 00:32:21,Social Engineering,Actions on Objectives,TA009
+INC00237,AST0036,Phishing,Critical,2025-12-09 11:32:21,,Network,Command & Control,TA030
+INC00238,AST0057,Phishing,Critical,2025-10-13 11:32:21,2025-11-08 11:32:21,Email,Command & Control,TA033
+INC00239,AST0048,DDoS Attack,High,2025-09-02 11:32:21,,Network,Reconnaissance,TA047
+INC00240,AST0165,Phishing,Low,2025-12-23 11:32:21,2026-01-10 01:32:21,Supply Chain,Command & Control,TA038
+INC00241,AST0049,Unauthorized Access,Critical,2025-04-15 11:32:21,2025-04-18 07:32:21,Supply Chain,Weaponization,TA002
+INC00242,AST0061,Phishing,Medium,2025-11-15 11:32:21,2025-11-24 10:32:21,Web Application,Weaponization,TA017
+INC00243,AST0033,Unauthorized Access,Low,2025-06-03 11:32:21,2025-06-21 01:32:21,Supply Chain,Delivery,TA026
+INC00244,AST0164,Data Breach,Medium,2025-10-16 11:32:21,,Web Application,Reconnaissance,TA014
+INC00245,AST0005,Insider Threat,Critical,2025-10-24 11:32:21,2025-10-30 09:32:21,Email,Delivery,TA013
+INC00246,AST0185,Insider Threat,High,2025-05-13 11:32:21,2025-06-04 16:32:21,Supply Chain,Reconnaissance,TA047
+INC00247,AST0002,DDoS Attack,Low,2025-12-16 11:32:21,2025-12-23 07:32:21,Network,Installation,TA033
+INC00248,AST0108,Malware Detection,High,2025-11-16 11:32:21,2025-11-23 16:32:21,Physical,Command & Control,TA037
+INC00249,AST0193,Malware Detection,Critical,2025-03-15 11:32:21,2025-04-03 05:32:21,Social Engineering,Actions on Objectives,TA005
+INC00250,AST0066,Insider Threat,Critical,2025-03-27 11:32:21,2025-04-09 21:32:21,Physical,Delivery,TA026
+INC00251,AST0164,DDoS Attack,Critical,2025-05-11 11:32:21,2025-05-26 15:32:21,Supply Chain,Exploitation,TA018
+INC00252,AST0115,DDoS Attack,High,2026-01-06 11:32:21,2026-01-25 07:32:21,Network,Delivery,TA010
+INC00253,AST0182,Data Breach,Critical,2025-09-09 11:32:21,,Network,Command & Control,TA020
+INC00254,AST0109,Insider Threat,Critical,2025-03-07 11:32:21,2025-03-23 18:32:21,Web Application,Exploitation,TA004
+INC00255,AST0050,Insider Threat,Critical,2025-10-24 11:32:21,2025-10-30 08:32:21,Social Engineering,Installation,TA038
+INC00256,AST0121,Malware Detection,Critical,2025-05-09 11:32:21,2025-05-28 07:32:21,Email,Actions on Objectives,TA031
+INC00257,AST0026,Phishing,Critical,2025-10-22 11:32:21,2025-10-27 20:32:21,Email,Weaponization,TA046
+INC00258,AST0084,Phishing,Medium,2025-02-26 11:32:21,2025-03-17 16:32:21,Physical,Command & Control,TA040
+INC00259,AST0043,Malware Detection,Low,2025-12-15 11:32:21,2026-01-12 18:32:21,Supply Chain,Exploitation,TA034
+INC00260,AST0122,Unauthorized Access,Low,2025-12-10 11:32:21,2026-01-03 09:32:21,Physical,Reconnaissance,TA016
+INC00261,AST0098,Phishing,High,2026-02-08 11:32:21,2026-02-26 13:32:21,Email,Command & Control,TA045
+INC00262,AST0092,Unauthorized Access,Critical,2025-11-03 11:32:21,2025-11-29 03:32:21,Physical,Weaponization,TA017
+INC00263,AST0180,Data Breach,Medium,2025-06-29 11:32:21,2025-07-07 12:32:21,Supply Chain,Command & Control,TA010
+INC00264,AST0054,DDoS Attack,Medium,2026-01-03 11:32:21,2026-01-24 17:32:21,Email,Weaponization,TA005
+INC00265,AST0073,Data Breach,Medium,2025-12-19 11:32:21,2026-01-11 00:32:21,Social Engineering,Exploitation,TA045
+INC00266,AST0106,Phishing,Critical,2026-01-24 11:32:21,2026-01-24 14:32:21,Email,Reconnaissance,TA050
+INC00267,AST0116,Unauthorized Access,Low,2025-11-13 11:32:21,2025-11-18 13:32:21,Network,Weaponization,TA029
+INC00268,AST0013,Malware Detection,Medium,2025-12-02 11:32:21,,Supply Chain,Weaponization,TA003
+INC00269,AST0060,Insider Threat,Low,2025-04-06 11:32:21,2025-04-30 07:32:21,Email,Command & Control,TA008
+INC00270,AST0054,Phishing,Low,2025-11-07 11:32:21,,Web Application,Weaponization,TA032
+INC00271,AST0170,Malware Detection,Low,2026-01-06 11:32:21,2026-01-21 08:32:21,Supply Chain,Delivery,TA025
+INC00272,AST0049,Unauthorized Access,High,2025-05-17 11:32:21,2025-06-02 21:32:21,Web Application,Delivery,TA050
+INC00273,AST0011,DDoS Attack,Critical,2026-01-18 11:32:21,2026-02-15 19:32:21,Email,Actions on Objectives,TA029
+INC00274,AST0098,Phishing,High,2025-07-03 11:32:21,2025-07-27 10:32:21,Network,Exploitation,TA047
+INC00275,AST0039,Malware Detection,Medium,2025-08-22 11:32:21,2025-08-25 15:32:21,Supply Chain,Actions on Objectives,TA010
+INC00276,AST0118,Malware Detection,Low,2025-03-29 11:32:21,,Network,Actions on Objectives,TA008
+INC00277,AST0014,Insider Threat,Low,2026-01-20 11:32:21,2026-02-08 05:32:21,Physical,Delivery,TA004
+INC00278,AST0193,Insider Threat,Critical,2025-09-27 11:32:21,2025-10-07 08:32:21,Physical,Reconnaissance,TA004
+INC00279,AST0027,Malware Detection,High,2025-07-02 11:32:21,,Supply Chain,Weaponization,TA009
+INC00280,AST0189,Insider Threat,Critical,2025-10-18 11:32:21,2025-11-06 08:32:21,Web Application,Command & Control,TA039
+INC00281,AST0048,Phishing,High,2025-12-26 11:32:21,2026-01-06 04:32:21,Network,Weaponization,TA045
+INC00282,AST0138,Data Breach,Low,2025-06-15 11:32:21,2025-07-06 17:32:21,Social Engineering,Command & Control,TA005
+INC00283,AST0037,Malware Detection,Critical,2025-02-18 11:32:21,2025-02-27 00:32:21,Web Application,Delivery,TA004
+INC00284,AST0130,Unauthorized Access,Low,2025-08-20 11:32:21,2025-09-06 16:32:21,Social Engineering,Command & Control,TA047
+INC00285,AST0170,DDoS Attack,Critical,2025-11-14 11:32:21,2025-11-18 10:32:21,Supply Chain,Command & Control,TA035
+INC00286,AST0096,Insider Threat,Critical,2025-09-29 11:32:21,,Social Engineering,Weaponization,TA023
+INC00287,AST0142,Malware Detection,Critical,2025-11-06 11:32:21,2025-11-10 20:32:21,Physical,Installation,TA028
+INC00288,AST0062,Insider Threat,Critical,2025-03-27 11:32:21,2025-03-30 23:32:21,Physical,Reconnaissance,TA032
+INC00289,AST0059,DDoS Attack,High,2026-02-10 11:32:21,2026-03-03 17:32:21,Network,Installation,TA024
+INC00290,AST0110,DDoS Attack,Low,2025-06-10 11:32:21,,Email,Command & Control,TA044
+INC00291,AST0057,Insider Threat,Medium,2025-07-14 11:32:21,,Network,Actions on Objectives,TA045
+INC00292,AST0087,Data Breach,Low,2026-02-09 11:32:21,2026-03-03 06:32:21,Social Engineering,Exploitation,TA021
+INC00293,AST0101,Phishing,Medium,2025-12-26 11:32:21,,Supply Chain,Command & Control,TA037
+INC00294,AST0110,Malware Detection,Medium,2025-11-03 11:32:21,2025-11-05 22:32:21,Network,Delivery,TA042
+INC00295,AST0031,DDoS Attack,Medium,2025-10-17 11:32:21,,Social Engineering,Actions on Objectives,TA028
+INC00296,AST0182,Unauthorized Access,Low,2025-07-08 11:32:21,,Web Application,Installation,TA002
+INC00297,AST0058,Data Breach,Low,2025-09-30 11:32:21,2025-10-13 02:32:21,Web Application,Command & Control,TA025
+INC00298,AST0115,Unauthorized Access,High,2025-05-08 11:32:21,2025-05-13 06:32:21,Email,Installation,TA004
+INC00299,AST0013,Malware Detection,Medium,2025-07-11 11:32:21,2025-07-17 21:32:21,Supply Chain,Weaponization,TA048
+INC00300,AST0168,DDoS Attack,Medium,2026-01-16 11:32:21,,Physical,Command & Control,TA044

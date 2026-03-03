@@ -1,0 +1,101 @@
+control_id,framework,category,control_name,implementation_status,last_reviewed_date,compliance_score
+CTL0001,ISO 27001,Protect,Incident Response Plan,Non-Compliant,2025-10-07,38.9
+CTL0002,ISO 27001,Detect,Network Segmentation,Non-Compliant,2025-07-08,65.6
+CTL0003,NIST CSF,Identify,Log Monitoring,Implemented,2025-05-22,47.8
+CTL0004,Zero Trust,Identify,SIEM Deployment,Non-Compliant,2025-05-24,58.6
+CTL0005,ISO 27001,Recover,Security Training,Non-Compliant,2025-03-22,35.4
+CTL0006,SOC 2,Detect,MFA Implementation,Non-Compliant,2025-07-13,79.5
+CTL0007,ISO 27001,Detect,Network Segmentation,Non-Compliant,2025-04-25,13.1
+CTL0008,ISO 27001,Protect,Patch Management,Non-Compliant,2025-10-16,25.7
+CTL0009,Zero Trust,Respond,Log Monitoring,Not Started,2026-02-07,66.5
+CTL0010,NIST CSF,Recover,Log Monitoring,Non-Compliant,2025-10-10,11.9
+CTL0011,SOC 2,Recover,Firewall Configuration,Not Started,2026-01-02,11.9
+CTL0012,ISO 27001,Respond,Firewall Configuration,Non-Compliant,2025-12-17,12.0
+CTL0013,Zero Trust,Identify,Patch Management,Non-Compliant,2025-07-17,49.1
+CTL0014,SOC 2,Recover,Data Encryption,Compliant,2025-07-12,47.7
+CTL0015,SOC 2,Recover,Firewall Configuration,Non-Compliant,2025-06-14,63.2
+CTL0016,Zero Trust,Detect,Log Monitoring,Implemented,2025-05-30,57.5
+CTL0017,NIST CSF,Protect,Backup & Recovery,Not Started,2025-09-14,32.9
+CTL0018,Zero Trust,Respond,Access Control Review,Compliant,2025-06-26,85.8
+CTL0019,ISO 27001,Detect,Incident Response Plan,In Progress,2025-07-29,9.4
+CTL0020,Zero Trust,Detect,Firewall Configuration,Implemented,2026-02-09,83.8
+CTL0021,ISO 27001,Protect,Network Segmentation,Non-Compliant,2025-09-06,18.8
+CTL0022,NIST CSF,Recover,MFA Implementation,Non-Compliant,2025-12-04,17.9
+CTL0023,NIST CSF,Identify,Backup & Recovery,Implemented,2025-06-13,45.6
+CTL0024,NIST CSF,Detect,Network Segmentation,Not Started,2025-09-05,33.1
+CTL0025,ISO 27001,Detect,Network Segmentation,In Progress,2025-11-28,13.2
+CTL0026,Zero Trust,Detect,Security Training,Compliant,2025-03-10,13.0
+CTL0027,NIST CSF,Respond,Backup & Recovery,Implemented,2025-08-05,71.7
+CTL0028,ISO 27001,Protect,MFA Implementation,Not Started,2025-07-07,20.2
+CTL0029,SOC 2,Respond,SIEM Deployment,Implemented,2025-09-19,64.0
+CTL0030,SOC 2,Identify,Backup & Recovery,Non-Compliant,2026-01-28,60.0
+CTL0031,NIST CSF,Recover,Backup & Recovery,Non-Compliant,2025-11-26,38.3
+CTL0032,Zero Trust,Protect,Patch Management,Non-Compliant,2025-12-24,91.7
+CTL0033,NIST CSF,Respond,SIEM Deployment,Not Started,2025-07-31,91.9
+CTL0034,SOC 2,Identify,Backup & Recovery,Non-Compliant,2025-06-03,33.9
+CTL0035,NIST CSF,Respond,MFA Implementation,In Progress,2025-10-02,78.3
+CTL0036,ISO 27001,Identify,SIEM Deployment,Implemented,2025-11-15,39.6
+CTL0037,NIST CSF,Identify,Log Monitoring,Compliant,2025-04-03,61.9
+CTL0038,Zero Trust,Respond,Vulnerability Assessment,In Progress,2025-04-16,22.2
+CTL0039,NIST CSF,Recover,Backup & Recovery,Not Started,2025-07-22,75.2
+CTL0040,ISO 27001,Detect,Patch Management,In Progress,2025-02-20,91.9
+CTL0041,ISO 27001,Detect,Patch Management,Compliant,2025-09-29,56.0
+CTL0042,NIST CSF,Recover,Patch Management,Compliant,2025-06-09,97.4
+CTL0043,ISO 27001,Protect,Firewall Configuration,In Progress,2026-01-17,55.5
+CTL0044,SOC 2,Protect,Access Control Review,In Progress,2025-12-03,38.8
+CTL0045,SOC 2,Respond,MFA Implementation,Compliant,2025-05-03,28.1
+CTL0046,SOC 2,Identify,Security Training,Not Started,2026-02-11,86.0
+CTL0047,Zero Trust,Identify,Log Monitoring,Non-Compliant,2025-11-08,10.6
+CTL0048,NIST CSF,Recover,Access Control Review,Not Started,2025-09-12,72.9
+CTL0049,Zero Trust,Detect,SIEM Deployment,Implemented,2025-11-23,46.6
+CTL0050,SOC 2,Protect,SIEM Deployment,Compliant,2025-04-23,2.1
+CTL0051,NIST CSF,Protect,Firewall Configuration,Implemented,2026-01-11,54.0
+CTL0052,NIST CSF,Recover,Incident Response Plan,Non-Compliant,2025-10-09,4.2
+CTL0053,SOC 2,Respond,SIEM Deployment,Not Started,2025-11-03,85.6
+CTL0054,SOC 2,Identify,Incident Response Plan,Not Started,2025-03-02,76.7
+CTL0055,NIST CSF,Respond,Incident Response Plan,Non-Compliant,2025-11-17,67.2
+CTL0056,ISO 27001,Protect,Backup & Recovery,Non-Compliant,2025-09-02,91.9
+CTL0057,Zero Trust,Identify,Vulnerability Assessment,Not Started,2025-12-13,80.8
+CTL0058,Zero Trust,Protect,Incident Response Plan,Non-Compliant,2026-01-23,90.4
+CTL0059,ISO 27001,Protect,Vulnerability Assessment,In Progress,2025-10-02,81.1
+CTL0060,Zero Trust,Identify,Network Segmentation,Implemented,2025-04-12,39.8
+CTL0061,SOC 2,Respond,Security Training,Compliant,2025-08-07,44.8
+CTL0062,ISO 27001,Protect,Patch Management,Compliant,2026-01-09,15.0
+CTL0063,ISO 27001,Identify,Patch Management,Not Started,2025-08-14,60.4
+CTL0064,NIST CSF,Detect,MFA Implementation,Not Started,2025-12-03,4.8
+CTL0065,Zero Trust,Detect,Vulnerability Assessment,Not Started,2025-10-30,70.7
+CTL0066,ISO 27001,Protect,Access Control Review,Implemented,2025-03-25,56.3
+CTL0067,Zero Trust,Recover,SIEM Deployment,Not Started,2026-01-08,86.0
+CTL0068,SOC 2,Identify,Data Encryption,Not Started,2025-09-06,26.3
+CTL0069,ISO 27001,Respond,Patch Management,Implemented,2025-03-27,86.5
+CTL0070,NIST CSF,Protect,SIEM Deployment,Not Started,2026-01-17,68.7
+CTL0071,NIST CSF,Recover,Vulnerability Assessment,Non-Compliant,2025-09-05,39.0
+CTL0072,SOC 2,Recover,Patch Management,In Progress,2025-06-30,5.8
+CTL0073,ISO 27001,Respond,Backup & Recovery,In Progress,2026-01-30,37.6
+CTL0074,ISO 27001,Protect,Incident Response Plan,Compliant,2025-04-12,28.6
+CTL0075,SOC 2,Respond,Vulnerability Assessment,Non-Compliant,2026-01-01,95.3
+CTL0076,Zero Trust,Recover,Network Segmentation,Non-Compliant,2025-08-27,6.3
+CTL0077,Zero Trust,Respond,Incident Response Plan,Compliant,2025-09-11,6.2
+CTL0078,ISO 27001,Detect,Log Monitoring,Not Started,2025-09-06,96.6
+CTL0079,ISO 27001,Recover,Security Training,Not Started,2025-11-04,67.7
+CTL0080,ISO 27001,Identify,Access Control Review,Not Started,2025-04-06,51.0
+CTL0081,Zero Trust,Protect,Vulnerability Assessment,Implemented,2025-10-15,96.0
+CTL0082,NIST CSF,Recover,Security Training,Implemented,2026-02-11,94.1
+CTL0083,Zero Trust,Identify,Firewall Configuration,Non-Compliant,2025-08-08,67.9
+CTL0084,SOC 2,Detect,Vulnerability Assessment,Compliant,2025-04-01,25.2
+CTL0085,ISO 27001,Respond,Backup & Recovery,Non-Compliant,2025-11-09,57.8
+CTL0086,NIST CSF,Identify,SIEM Deployment,Not Started,2026-01-16,62.9
+CTL0087,SOC 2,Detect,Network Segmentation,In Progress,2025-08-11,87.6
+CTL0088,Zero Trust,Recover,Security Training,Not Started,2025-10-04,76.0
+CTL0089,NIST CSF,Protect,Firewall Configuration,Implemented,2025-03-12,34.9
+CTL0090,NIST CSF,Detect,Security Training,Not Started,2025-03-08,65.2
+CTL0091,Zero Trust,Protect,Patch Management,In Progress,2026-02-10,15.4
+CTL0092,SOC 2,Identify,Security Training,Not Started,2025-06-01,23.5
+CTL0093,NIST CSF,Recover,MFA Implementation,Not Started,2025-12-31,76.1
+CTL0094,NIST CSF,Identify,Access Control Review,Not Started,2025-11-20,49.2
+CTL0095,SOC 2,Detect,SIEM Deployment,In Progress,2025-09-05,98.9
+CTL0096,SOC 2,Protect,Access Control Review,Non-Compliant,2026-01-28,11.0
+CTL0097,NIST CSF,Detect,Access Control Review,Not Started,2025-04-17,50.3
+CTL0098,ISO 27001,Recover,Backup & Recovery,Implemented,2025-07-06,47.0
+CTL0099,SOC 2,Detect,Vulnerability Assessment,In Progress,2025-05-04,12.2
+CTL0100,Zero Trust,Respond,SIEM Deployment,Non-Compliant,2025-04-03,57.9

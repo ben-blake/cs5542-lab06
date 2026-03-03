@@ -1,0 +1,501 @@
+vuln_id,cve_id,asset_id,cvss_score,severity_label,category,description,discovered_date,remediated_date,status
+VUL00001,CVE-2019-24618,AST0148,2.5,Low,Authorization,Executive book number population.,2026-01-29,,Open
+VUL00002,CVE-2022-90462,AST0104,5.9,Medium,SQL Injection,The ability when feeling easy outside product radio pick.,2025-08-25,2025-11-10,In Remediation
+VUL00003,CVE-2021-30243,AST0130,3.9,Low,XSS,News start can always dinner year.,2025-10-26,,Open
+VUL00004,CVE-2019-23432,AST0103,7.2,High,XSS,Still total off then collection choice seek per mean.,2026-01-23,,In Remediation
+VUL00005,CVE-2020-82517,AST0116,5.8,Medium,Authentication,Story stuff management national player.,2025-12-09,2026-03-16,Accepted Risk
+VUL00006,CVE-2024-41354,AST0006,9.1,Critical,SQL Injection,Necessary health check have a look chair.,2025-06-09,,In Remediation
+VUL00007,CVE-2019-19832,AST0033,2.3,Low,RCE,Physical current truth wait.,2025-04-28,2025-07-06,Accepted Risk
+VUL00008,CVE-2024-38169,AST0149,9.0,Critical,XSS,Resource speak wind low information hospital write go occur meet.,2026-01-12,2026-04-09,Remediated
+VUL00009,CVE-2023-51647,AST0063,1.1,Low,RCE,Food song husband change region.,2025-09-14,,Remediated
+VUL00010,CVE-2020-83722,AST0038,7.0,High,Authentication,Appear daughter raise into edge feel budget improve star.,2025-07-23,2025-08-31,Accepted Risk
+VUL00011,CVE-2019-20706,AST0101,2.4,Low,XSS,Audience field social race sort thank meet any very act.,2025-05-17,2025-06-20,Remediated
+VUL00012,CVE-2019-81812,AST0120,5.3,Medium,Authorization,Whole phone government role its record determine exist care affect.,2025-05-17,,In Remediation
+VUL00013,CVE-2020-50130,AST0094,8.6,High,Authentication,Attention instead fact direction raise learn movement.,2025-03-17,,In Remediation
+VUL00014,CVE-2021-40299,AST0158,1.5,Low,Authorization,We yourself civil leg conference the door school.,2025-05-20,2025-05-25,Accepted Risk
+VUL00015,CVE-2024-18025,AST0193,1.4,Low,Authorization,Consider war down morning computer.,2025-10-14,2025-10-20,Remediated
+VUL00016,CVE-2022-47481,AST0130,8.7,High,SQL Injection,Have young grow if style.,2025-09-01,2025-11-23,In Remediation
+VUL00017,CVE-2019-57064,AST0014,3.1,Low,Information Disclosure,Move than sometimes piece economic brother now nice best purpose.,2025-03-04,,Accepted Risk
+VUL00018,CVE-2020-68498,AST0030,8.8,High,RCE,Discussion anyone occur data break unit them name.,2025-05-21,2025-07-15,Open
+VUL00019,CVE-2024-50636,AST0028,2.8,Low,Authorization,Finish population cut carry sell administration plan pattern eye.,2025-04-15,2025-05-09,Remediated
+VUL00020,CVE-2023-26402,AST0044,8.0,High,Authorization,Return other involve president degree.,2025-12-07,,In Remediation
+VUL00021,CVE-2021-96470,AST0187,9.4,Critical,XSS,Increase shake head dream notice note history despite third.,2025-09-21,,In Remediation
+VUL00022,CVE-2022-58958,AST0110,5.0,Medium,Authorization,Story garden event garden writer concern than fear describe ready.,2025-08-02,,Open
+VUL00023,CVE-2023-45868,AST0120,6.9,Medium,Encryption,Open somebody four we choice finally whom explain.,2025-02-25,2025-04-11,Remediated
+VUL00024,CVE-2024-70547,AST0096,3.7,Low,RCE,Degree choose case approach hospital simple example prove.,2025-11-07,2026-01-29,Open
+VUL00025,CVE-2023-63174,AST0074,2.7,Low,Encryption,Election thousand nice turn in few.,2026-02-02,,Open
+VUL00026,CVE-2020-69011,AST0177,3.7,Low,RCE,Receive suggest little beautiful surface skin remember thus certainly.,2025-10-23,,Open
+VUL00027,CVE-2023-17735,AST0109,2.3,Low,SQL Injection,Field half state well those fire hotel star.,2025-02-18,2025-05-19,Accepted Risk
+VUL00028,CVE-2022-59064,AST0154,7.2,High,Authentication,Treatment shake when her TV.,2025-12-01,2025-12-29,Open
+VUL00029,CVE-2022-69443,AST0110,2.7,Low,SQL Injection,Thank all picture car under property skill go body maintain.,2025-04-01,,In Remediation
+VUL00030,CVE-2022-53560,AST0149,8.9,High,RCE,Land listen leader win policy strong morning.,2025-10-05,2025-11-08,Accepted Risk
+VUL00031,CVE-2022-13858,AST0024,8.6,High,XSS,Building answer how maintain product yourself design.,2025-11-30,,In Remediation
+VUL00032,CVE-2019-19667,AST0151,6.1,Medium,SQL Injection,Increase project discuss program meet.,2025-05-05,,Remediated
+VUL00033,CVE-2022-91596,AST0042,3.0,Low,RCE,Word gas relate position nation method if choice.,2025-10-17,,In Remediation
+VUL00034,CVE-2019-25858,AST0124,7.8,High,Information Disclosure,Car hard rest hand stuff.,2025-09-11,,Accepted Risk
+VUL00035,CVE-2021-75655,AST0121,5.3,Medium,RCE,Ok truth trouble head two responsibility blue moment size.,2026-01-02,2026-03-21,Remediated
+VUL00036,CVE-2023-81612,AST0190,7.5,High,Encryption,Prove win peace process enough feeling.,2025-04-30,,Accepted Risk
+VUL00037,CVE-2020-80297,AST0123,5.1,Medium,XSS,Yet blood nearly whole popular full walk play personal growth.,2025-08-15,2025-10-27,Remediated
+VUL00038,CVE-2022-24680,AST0174,9.9,Critical,Authorization,Fight on yourself number treatment get religious parent office.,2025-03-08,,Open
+VUL00039,CVE-2024-57775,AST0147,5.3,Medium,SQL Injection,Stop tough bed action expert black series now network.,2025-12-18,2026-02-15,In Remediation
+VUL00040,CVE-2023-85051,AST0181,2.4,Low,Encryption,Point agree stop my poor happy however benefit step into.,2025-03-10,,Open
+VUL00041,CVE-2021-57844,AST0166,3.9,Low,SQL Injection,Could huge image recent impact she able system record.,2025-04-27,2025-05-10,Accepted Risk
+VUL00042,CVE-2024-93238,AST0069,9.9,Critical,Information Disclosure,Bit suggest out something deal its.,2025-12-10,2026-03-25,Remediated
+VUL00043,CVE-2023-22136,AST0147,5.5,Medium,Authorization,Describe knowledge stage cup go put let onto Republican.,2025-10-26,2025-12-14,Open
+VUL00044,CVE-2023-27475,AST0056,7.4,High,Authentication,Million ball change news teacher indicate choose thought.,2025-09-17,2025-11-10,In Remediation
+VUL00045,CVE-2022-83423,AST0121,2.7,Low,XSS,Cultural some into human both history me loss.,2025-08-07,2025-09-14,Remediated
+VUL00046,CVE-2020-86043,AST0158,2.8,Low,XSS,Wind close commercial hit continue white middle woman than.,2025-04-03,2025-07-01,Open
+VUL00047,CVE-2019-36961,AST0032,3.6,Low,Encryption,Skin author respond as develop safe.,2025-07-26,,Accepted Risk
+VUL00048,CVE-2024-79820,AST0118,3.8,Low,Authentication,Call position morning land edge level.,2025-11-08,,Remediated
+VUL00049,CVE-2019-44993,AST0106,4.9,Medium,SQL Injection,Build significant trip factor success agree garden series debate ten.,2025-11-10,2025-12-04,In Remediation
+VUL00050,CVE-2022-41290,AST0102,8.6,High,RCE,Likely drop glass north agree or institution study building.,2025-05-25,,In Remediation
+VUL00051,CVE-2023-28700,AST0040,4.1,Medium,SQL Injection,Resource debate especially production sport.,2025-02-26,2025-06-25,Open
+VUL00052,CVE-2019-49697,AST0102,10.0,Critical,RCE,Kid doctor score around appear black same statement push personal agreement.,2025-11-19,2026-02-06,Accepted Risk
+VUL00053,CVE-2019-81747,AST0110,6.0,Medium,Encryption,Growth involve avoid sister outside into Democrat court since.,2025-02-24,2025-06-16,Remediated
+VUL00054,CVE-2019-81779,AST0154,6.4,Medium,Information Disclosure,Adult can understand small participant anyone his scientist late my.,2025-07-15,2025-09-08,Remediated
+VUL00055,CVE-2021-31097,AST0182,9.8,Critical,Authentication,Yeah support future police authority.,2025-12-22,2026-03-14,In Remediation
+VUL00056,CVE-2021-70047,AST0197,1.4,Low,Authorization,Feeling parent mouth affect heavy indeed partner risk treat free.,2025-08-24,2025-10-25,In Remediation
+VUL00057,CVE-2024-23570,AST0161,3.1,Low,Information Disclosure,Thing more situation force fact whether wait thank work last.,2025-11-04,2026-01-12,In Remediation
+VUL00058,CVE-2023-81943,AST0168,7.5,High,Encryption,Shake keep ahead forward measure.,2025-02-19,2025-04-27,Remediated
+VUL00059,CVE-2021-82147,AST0174,3.1,Low,Information Disclosure,Dog would class decision sister plan public property site officer ability.,2025-07-16,2025-08-10,Accepted Risk
+VUL00060,CVE-2023-75285,AST0147,4.1,Medium,Information Disclosure,Girl tax hand loss attack.,2025-06-17,2025-09-09,Remediated
+VUL00061,CVE-2020-16111,AST0111,2.4,Low,XSS,Off pressure government deep real.,2025-09-21,,In Remediation
+VUL00062,CVE-2019-70979,AST0176,9.5,Critical,Information Disclosure,Forward ten instead role international pressure who turn.,2025-09-17,2025-10-21,In Remediation
+VUL00063,CVE-2019-44305,AST0186,5.8,Medium,XSS,His state happy prepare future approach.,2026-02-02,2026-02-18,Accepted Risk
+VUL00064,CVE-2023-43712,AST0041,3.8,Low,Information Disclosure,Positive little choice player form least radio coach avoid.,2025-04-19,,In Remediation
+VUL00065,CVE-2020-85281,AST0071,7.8,High,Authorization,Stand staff while indeed win later rate several.,2025-09-09,,In Remediation
+VUL00066,CVE-2024-37732,AST0002,1.8,Low,Information Disclosure,Young bag step effort medical poor nature throw up.,2025-08-19,,Open
+VUL00067,CVE-2019-96206,AST0094,9.4,Critical,Information Disclosure,School weight student threat toward never keep.,2025-08-08,2025-09-20,Open
+VUL00068,CVE-2024-76315,AST0146,9.3,Critical,SQL Injection,Never room fear mouth same inside under.,2025-05-24,,Remediated
+VUL00069,CVE-2022-33612,AST0052,7.5,High,SQL Injection,Top build risk service state.,2025-06-14,2025-08-09,Accepted Risk
+VUL00070,CVE-2022-67257,AST0103,2.2,Low,Authentication,Give staff born official message back child research interview instead.,2025-04-17,,Accepted Risk
+VUL00071,CVE-2019-83010,AST0144,6.5,Medium,SQL Injection,Challenge college black course wrong west behavior somebody head.,2025-09-24,,Remediated
+VUL00072,CVE-2021-75006,AST0159,2.3,Low,Authorization,Feel also Democrat throw evening.,2025-07-31,,Open
+VUL00073,CVE-2023-76866,AST0157,9.1,Critical,RCE,Explain yeah program that rest always.,2025-09-06,2025-10-27,In Remediation
+VUL00074,CVE-2024-38573,AST0006,6.9,Medium,Encryption,Sense someone thought sit.,2025-11-30,2026-03-07,In Remediation
+VUL00075,CVE-2020-80823,AST0012,9.1,Critical,RCE,Daughter cost participant best medical keep.,2025-12-05,,Remediated
+VUL00076,CVE-2019-72048,AST0021,3.4,Low,Authorization,Factor five speak seat teach.,2025-06-02,,Open
+VUL00077,CVE-2022-49629,AST0023,2.6,Low,Information Disclosure,Almost agreement enter nice development realize keep west.,2025-03-12,2025-06-30,Remediated
+VUL00078,CVE-2024-45252,AST0170,9.0,Critical,XSS,Support consumer action pick fast arrive make senior true.,2026-01-09,2026-01-31,In Remediation
+VUL00079,CVE-2023-84036,AST0030,7.5,High,SQL Injection,Allow visit interesting him successful treatment source able.,2025-09-10,,Open
+VUL00080,CVE-2023-47373,AST0010,3.9,Low,XSS,Strategy growth mind try learn deal sound yourself his near.,2025-04-11,,Open
+VUL00081,CVE-2021-99032,AST0157,1.6,Low,Information Disclosure,Structure magazine standard dog camera will program we heart avoid.,2025-04-13,2025-07-02,Open
+VUL00082,CVE-2019-28824,AST0024,8.4,High,RCE,You professor ago teacher impact your main goal military.,2025-09-20,2025-11-22,Remediated
+VUL00083,CVE-2022-51193,AST0073,7.3,High,XSS,Trade easy now glass range eat national if set.,2025-10-17,,Remediated
+VUL00084,CVE-2019-69112,AST0086,9.0,Critical,Information Disclosure,Responsibility member million physical win speak important bring part check.,2026-02-12,2026-04-11,Remediated
+VUL00085,CVE-2023-11629,AST0161,4.3,Medium,SQL Injection,Something nearly home memory culture today very.,2025-03-16,2025-07-12,Open
+VUL00086,CVE-2020-43725,AST0070,7.5,High,Encryption,Run position ten west serve most rest.,2025-08-12,,In Remediation
+VUL00087,CVE-2022-34451,AST0149,3.2,Low,SQL Injection,Discuss deal then let between miss offer itself Congress however.,2025-11-09,,In Remediation
+VUL00088,CVE-2023-54717,AST0094,9.2,Critical,Encryption,Six significant between social pass education agree game property ten.,2025-08-12,2025-09-10,Open
+VUL00089,CVE-2020-20240,AST0160,4.5,Medium,SQL Injection,Very deep speech under sell poor require clearly yeah.,2025-04-26,2025-08-14,In Remediation
+VUL00090,CVE-2019-84931,AST0093,3.6,Low,Authentication,Picture order build pay table special.,2025-10-18,,Remediated
+VUL00091,CVE-2022-50898,AST0027,5.5,Medium,XSS,Hundred key east treatment grow never military interview difficult treat.,2025-08-31,2025-10-25,Accepted Risk
+VUL00092,CVE-2024-20212,AST0056,2.2,Low,RCE,Management same specific network support hold dark message Congress attorney.,2025-12-22,,Remediated
+VUL00093,CVE-2021-40220,AST0009,6.0,Medium,Authorization,Before quickly pressure human coach way professional arrive threat.,2025-08-24,2025-12-13,In Remediation
+VUL00094,CVE-2020-52773,AST0119,7.2,High,Authentication,Resource me go responsibility amount.,2025-07-05,2025-07-31,Remediated
+VUL00095,CVE-2020-46000,AST0090,1.5,Low,Authentication,Section listen will full someone charge test attack best operation clear.,2026-01-20,2026-04-08,In Remediation
+VUL00096,CVE-2021-89230,AST0191,6.2,Medium,RCE,Attention need between even gun old sort step young who.,2025-04-27,,Open
+VUL00097,CVE-2024-51828,AST0194,7.1,High,Encryption,Various son main matter.,2025-09-20,2025-10-05,Open
+VUL00098,CVE-2020-71751,AST0114,6.7,Medium,RCE,Measure hand strategy tell though let learn away successful actually.,2025-12-06,2026-01-04,Accepted Risk
+VUL00099,CVE-2024-72330,AST0192,7.6,High,SQL Injection,Western crime spring soon action question create thousand second.,2025-02-19,2025-03-07,In Remediation
+VUL00100,CVE-2022-62540,AST0126,1.2,Low,Encryption,Difference read break career Republican.,2025-08-02,,Accepted Risk
+VUL00101,CVE-2019-64281,AST0167,3.4,Low,XSS,Picture which boy owner religious.,2025-07-16,2025-07-30,Accepted Risk
+VUL00102,CVE-2021-68123,AST0040,2.9,Low,Authorization,Director stage stand together though plant with much front.,2025-03-12,,Open
+VUL00103,CVE-2022-30276,AST0084,1.3,Low,SQL Injection,Experience form usually despite stuff.,2025-06-14,2025-10-02,Accepted Risk
+VUL00104,CVE-2019-60783,AST0159,1.5,Low,Authentication,Cell probably practice whose high left play chance character admit.,2026-02-09,2026-04-25,Open
+VUL00105,CVE-2020-64421,AST0054,1.1,Low,Information Disclosure,Pick poor toward may realize image walk ever miss social.,2026-02-15,,Accepted Risk
+VUL00106,CVE-2024-35918,AST0082,3.4,Low,RCE,Plant inside card particular where choice air.,2025-08-31,,In Remediation
+VUL00107,CVE-2019-46164,AST0161,7.4,High,Information Disclosure,Star difference operation mind health member take or street heart discuss.,2025-08-09,2025-10-11,Remediated
+VUL00108,CVE-2019-25663,AST0191,2.2,Low,Encryption,Science generation operation team bank.,2025-11-17,,Open
+VUL00109,CVE-2022-88065,AST0059,7.8,High,Encryption,War sit issue drive feeling quality.,2025-08-09,2025-08-18,Open
+VUL00110,CVE-2019-63422,AST0051,8.4,High,XSS,Each civil process raise suffer political move heavy require.,2025-04-09,2025-07-04,Accepted Risk
+VUL00111,CVE-2024-42694,AST0108,7.2,High,Authentication,Son simply base race scientist war I.,2025-04-04,,Open
+VUL00112,CVE-2019-95351,AST0132,4.5,Medium,Authorization,Just hit evidence call find.,2025-06-04,2025-06-20,In Remediation
+VUL00113,CVE-2020-42898,AST0083,7.5,High,RCE,Choose authority reason gun fall market.,2025-02-26,2025-03-21,Accepted Risk
+VUL00114,CVE-2019-27041,AST0009,9.2,Critical,Authorization,Consider employee girl laugh couple staff computer office.,2025-11-02,,Remediated
+VUL00115,CVE-2022-42114,AST0029,2.4,Low,Authentication,Financial record win letter cup tree old quite while.,2025-11-01,,Accepted Risk
+VUL00116,CVE-2024-61224,AST0137,7.1,High,RCE,Us whom consider impact TV whom few.,2025-05-12,2025-08-09,Remediated
+VUL00117,CVE-2022-15848,AST0114,2.3,Low,RCE,Study to of significant western.,2025-03-08,2025-06-10,Accepted Risk
+VUL00118,CVE-2023-35167,AST0055,5.9,Medium,RCE,Claim measure however responsibility senior air wall stage city.,2025-09-07,2025-11-07,Accepted Risk
+VUL00119,CVE-2020-36494,AST0190,9.0,Critical,Encryption,Production medical despite according.,2025-10-27,,In Remediation
+VUL00120,CVE-2019-94385,AST0113,8.4,High,Information Disclosure,Market can if position authority party.,2025-12-05,,Open
+VUL00121,CVE-2020-72803,AST0004,2.5,Low,Information Disclosure,Us central positive nothing research today.,2025-09-26,,Accepted Risk
+VUL00122,CVE-2020-98685,AST0172,5.2,Medium,Authorization,Take real need away six rise foot rich sound.,2025-05-07,,Remediated
+VUL00123,CVE-2021-80818,AST0194,5.2,Medium,SQL Injection,Generation control teach clear tell side teach.,2026-01-03,2026-01-19,Open
+VUL00124,CVE-2023-92462,AST0176,9.2,Critical,Authorization,Meeting officer fire turn firm executive despite foreign lead require.,2025-05-17,,Remediated
+VUL00125,CVE-2024-68143,AST0156,6.3,Medium,Authentication,Modern surface step produce find.,2025-07-03,,Open
+VUL00126,CVE-2019-15087,AST0083,9.5,Critical,XSS,Hold stay baby size minute rich rest chair him.,2025-09-18,2025-09-30,Accepted Risk
+VUL00127,CVE-2024-69064,AST0029,4.6,Medium,Authentication,Admit just writer great campaign house to under.,2025-12-25,2026-03-16,Accepted Risk
+VUL00128,CVE-2023-87293,AST0039,6.2,Medium,Encryption,Million agreement thus total suggest base.,2025-08-09,,In Remediation
+VUL00129,CVE-2021-94011,AST0005,5.2,Medium,RCE,Civil follow western especially time find after week.,2025-02-28,2025-06-16,In Remediation
+VUL00130,CVE-2022-67485,AST0185,5.8,Medium,XSS,Hit must system today almost environment sure example world recently.,2025-06-13,,Remediated
+VUL00131,CVE-2022-30018,AST0025,9.3,Critical,Information Disclosure,Water long response base form concern apply necessary nothing wear.,2026-02-05,2026-03-01,Remediated
+VUL00132,CVE-2020-99944,AST0061,2.6,Low,XSS,Half listen trade wide project brother lose talk fear.,2025-08-28,2025-12-08,In Remediation
+VUL00133,CVE-2019-89562,AST0023,1.6,Low,XSS,Condition hot skill voice term especially practice cause.,2025-04-23,2025-05-23,Remediated
+VUL00134,CVE-2021-49092,AST0079,4.5,Medium,Authentication,Middle scene say director own.,2026-01-23,2026-02-01,In Remediation
+VUL00135,CVE-2024-43139,AST0149,2.7,Low,RCE,Significant join country right most strong position arm throw.,2025-04-09,2025-05-26,Accepted Risk
+VUL00136,CVE-2024-15594,AST0034,8.7,High,Authentication,Through detail week decision pass.,2025-05-02,,Open
+VUL00137,CVE-2021-72332,AST0160,4.8,Medium,XSS,Painting process pull suddenly consumer report.,2025-10-18,,In Remediation
+VUL00138,CVE-2020-42111,AST0129,8.2,High,Authorization,Behavior certain value such traditional.,2025-08-18,,Open
+VUL00139,CVE-2023-85600,AST0035,9.9,Critical,Authorization,Win measure whole affect reach.,2025-08-31,,Accepted Risk
+VUL00140,CVE-2021-13852,AST0016,9.5,Critical,SQL Injection,Kid deep what peace staff fear.,2025-10-20,2026-02-06,Remediated
+VUL00141,CVE-2021-71068,AST0075,5.9,Medium,Authentication,Dinner natural represent room probably address.,2025-04-14,,Accepted Risk
+VUL00142,CVE-2024-20474,AST0189,6.1,Medium,Authentication,Environment discussion possible ball after day pretty.,2025-07-26,2025-09-05,Remediated
+VUL00143,CVE-2020-40376,AST0013,1.7,Low,XSS,Again central eight away western mission government manage condition even then.,2025-02-23,2025-04-08,Remediated
+VUL00144,CVE-2023-54426,AST0153,8.0,High,Encryption,Follow nice data nearly eye dog either.,2026-01-27,,In Remediation
+VUL00145,CVE-2019-53410,AST0077,7.2,High,Encryption,When whole girl wear turn.,2025-10-12,2026-01-14,In Remediation
+VUL00146,CVE-2020-33214,AST0193,6.6,Medium,Authorization,Cause a box pull upon thus those accept direction you.,2026-01-17,2026-05-04,Accepted Risk
+VUL00147,CVE-2021-91338,AST0144,9.3,Critical,Authorization,Floor marriage site respond kid stage above.,2025-04-18,2025-07-22,Open
+VUL00148,CVE-2022-87697,AST0119,3.4,Low,Authentication,Charge current share base.,2026-01-31,,Remediated
+VUL00149,CVE-2019-10897,AST0197,7.4,High,Authentication,News research when perhaps support education spring from enter.,2026-01-07,2026-01-21,Open
+VUL00150,CVE-2024-44165,AST0110,5.3,Medium,Authorization,Unit hold care position site south significant but.,2025-09-01,2025-11-07,Accepted Risk
+VUL00151,CVE-2019-14525,AST0081,4.2,Medium,XSS,Popular player tend letter boy experience under education certainly notice him.,2025-06-18,2025-07-09,Accepted Risk
+VUL00152,CVE-2023-46579,AST0086,5.0,Medium,Authentication,Tough black nothing although happy act crime it position.,2025-03-09,2025-06-01,In Remediation
+VUL00153,CVE-2019-50641,AST0181,4.4,Medium,SQL Injection,Step every operation specific expect often.,2025-04-15,,Accepted Risk
+VUL00154,CVE-2019-42943,AST0056,6.6,Medium,SQL Injection,Among audience behavior recognize former.,2025-05-17,2025-07-29,Open
+VUL00155,CVE-2021-51036,AST0052,2.2,Low,SQL Injection,Type sense might institution accept among.,2025-08-07,2025-11-22,Open
+VUL00156,CVE-2022-78195,AST0114,8.9,High,Information Disclosure,Box themselves while production.,2025-08-31,,Remediated
+VUL00157,CVE-2019-34246,AST0158,7.1,High,SQL Injection,Rock above four usually thought according far develop nothing identify condition.,2025-07-20,2025-08-31,Open
+VUL00158,CVE-2019-29206,AST0018,5.0,Medium,Encryption,Young place company several significant several power hold school treatment wonder.,2025-03-04,,Open
+VUL00159,CVE-2020-60199,AST0110,5.3,Medium,Encryption,Week own me sea onto.,2025-10-11,2026-01-24,Remediated
+VUL00160,CVE-2022-62025,AST0012,6.7,Medium,Information Disclosure,Author rise rest and discover couple about town majority.,2025-03-22,,In Remediation
+VUL00161,CVE-2019-26775,AST0113,3.4,Low,XSS,Western fall south might rich light expert.,2025-03-20,2025-06-18,Remediated
+VUL00162,CVE-2019-34295,AST0057,2.3,Low,SQL Injection,Physical eye relationship rich describe minute.,2025-04-20,,Accepted Risk
+VUL00163,CVE-2019-15958,AST0173,1.8,Low,Authentication,Card without have account find recognize traditional late building.,2025-09-07,,In Remediation
+VUL00164,CVE-2021-38486,AST0161,5.2,Medium,RCE,Five public still where play couple plan rise.,2025-09-08,2025-09-28,Remediated
+VUL00165,CVE-2024-27930,AST0140,9.2,Critical,RCE,Political consider home member which.,2026-01-21,2026-04-04,Remediated
+VUL00166,CVE-2019-70017,AST0142,1.8,Low,Authentication,Popular early site high former word.,2026-01-29,2026-05-28,Accepted Risk
+VUL00167,CVE-2024-87168,AST0047,6.8,Medium,Authentication,Store about trip low picture back.,2025-09-26,2025-10-03,In Remediation
+VUL00168,CVE-2019-87382,AST0046,5.9,Medium,XSS,Assume home require project big.,2025-06-09,,Accepted Risk
+VUL00169,CVE-2022-13443,AST0152,3.4,Low,Information Disclosure,Involve participant charge good culture final compare why ten number.,2025-11-02,,Accepted Risk
+VUL00170,CVE-2021-89189,AST0167,4.2,Medium,Authorization,Him put attorney soldier government security third experience.,2025-04-13,,Accepted Risk
+VUL00171,CVE-2023-76672,AST0039,6.4,Medium,RCE,Within sign start technology draw.,2025-05-07,,In Remediation
+VUL00172,CVE-2022-74829,AST0090,3.6,Low,Authentication,Too college save wife long simply have research worker.,2025-11-25,2025-12-30,Accepted Risk
+VUL00173,CVE-2020-92617,AST0187,6.7,Medium,Encryption,Big right star trip.,2025-12-10,2026-04-06,Accepted Risk
+VUL00174,CVE-2020-41577,AST0153,5.3,Medium,SQL Injection,Listen safe some short nor different moment.,2025-03-10,2025-05-28,Accepted Risk
+VUL00175,CVE-2024-64199,AST0180,2.9,Low,XSS,Player bit morning as social general cultural successful.,2026-01-16,,Remediated
+VUL00176,CVE-2022-42119,AST0034,3.8,Low,Encryption,Situation up here interesting second south network sense environmental.,2025-02-27,,Open
+VUL00177,CVE-2021-33926,AST0084,3.3,Low,Authorization,Hot before parent draw amount authority there say.,2025-04-21,2025-07-02,Open
+VUL00178,CVE-2024-39477,AST0049,7.4,High,Encryption,Church investment full case election quickly require.,2025-05-22,2025-07-05,Remediated
+VUL00179,CVE-2022-36030,AST0073,5.8,Medium,Information Disclosure,Wall card your thousand sense picture something concern always never.,2026-01-09,,Remediated
+VUL00180,CVE-2020-95749,AST0160,5.8,Medium,RCE,Morning player subject project region it law happen challenge charge.,2026-02-10,2026-05-11,Open
+VUL00181,CVE-2021-95172,AST0163,7.5,High,Information Disclosure,Training state sister ball ability grow leader.,2025-03-08,,In Remediation
+VUL00182,CVE-2021-71359,AST0101,5.3,Medium,SQL Injection,Room picture region person develop black a.,2025-12-08,,Remediated
+VUL00183,CVE-2020-18954,AST0089,3.6,Low,Information Disclosure,Situation happy drop service say simple single open draw across.,2025-07-22,2025-10-15,Remediated
+VUL00184,CVE-2021-79822,AST0161,1.6,Low,Encryption,Million process involve return organization standard series.,2025-07-03,2025-09-11,In Remediation
+VUL00185,CVE-2019-24868,AST0072,2.2,Low,Information Disclosure,Throw through society result senior well between continue.,2025-11-30,2025-12-02,Accepted Risk
+VUL00186,CVE-2019-22198,AST0020,6.7,Medium,Information Disclosure,Control budget away admit care along entire.,2026-02-12,2026-02-18,In Remediation
+VUL00187,CVE-2024-67255,AST0072,6.2,Medium,SQL Injection,Prove wish industry middle realize will first because.,2025-10-20,2025-11-07,Accepted Risk
+VUL00188,CVE-2021-41543,AST0093,9.8,Critical,SQL Injection,Sign specific any very husband store care project.,2025-09-22,2026-01-16,Open
+VUL00189,CVE-2019-84426,AST0165,8.4,High,XSS,Bill describe truth organization recognize kid miss oil.,2025-07-18,2025-07-30,Remediated
+VUL00190,CVE-2023-54583,AST0017,2.6,Low,Authentication,Only hotel remain mean position.,2025-07-22,2025-09-03,In Remediation
+VUL00191,CVE-2024-71308,AST0095,3.7,Low,Information Disclosure,Above animal decision approach eight let.,2026-01-27,,In Remediation
+VUL00192,CVE-2022-58516,AST0026,6.1,Medium,Authorization,Manager hear appear purpose organization attack yet amount stop.,2026-01-13,2026-03-19,Open
+VUL00193,CVE-2021-60627,AST0160,8.3,High,SQL Injection,Draw room administration value media apply visit.,2025-10-23,,Open
+VUL00194,CVE-2022-81242,AST0009,5.2,Medium,Authentication,Raise east woman hope bad between skin require call.,2025-08-25,,Accepted Risk
+VUL00195,CVE-2024-58208,AST0139,7.9,High,RCE,Current whom trip land director positive.,2026-02-03,2026-05-23,In Remediation
+VUL00196,CVE-2023-14377,AST0088,7.3,High,XSS,Bag force tough stage place between.,2025-05-20,,Accepted Risk
+VUL00197,CVE-2021-49314,AST0083,5.8,Medium,RCE,Check run special throw foot return hope time.,2025-09-12,2025-12-04,Accepted Risk
+VUL00198,CVE-2020-41699,AST0137,3.7,Low,Information Disclosure,Man color early hope school.,2025-06-23,,Accepted Risk
+VUL00199,CVE-2021-52192,AST0102,7.1,High,Information Disclosure,Form street product seven paper easy price.,2025-04-14,2025-06-20,In Remediation
+VUL00200,CVE-2022-11175,AST0161,5.4,Medium,RCE,Never sign his back we itself in move fish operation.,2025-11-05,2025-11-14,Remediated
+VUL00201,CVE-2023-94376,AST0165,8.9,High,RCE,Southern less lose officer art most might build.,2025-11-20,2026-02-14,Accepted Risk
+VUL00202,CVE-2024-25105,AST0138,3.0,Low,Authentication,Guess himself agree lead whose project price usually course glass.,2025-12-15,2026-02-28,In Remediation
+VUL00203,CVE-2019-93346,AST0016,8.0,High,XSS,Memory serious toward note allow vote character possible perform.,2025-03-21,,Open
+VUL00204,CVE-2023-47726,AST0171,2.5,Low,Encryption,Sister house staff citizen reason within page each relate.,2025-07-17,2025-08-31,Remediated
+VUL00205,CVE-2024-36293,AST0174,5.5,Medium,Information Disclosure,Continue language plant me charge want.,2025-12-18,,Open
+VUL00206,CVE-2021-67251,AST0164,3.4,Low,XSS,Staff forward bring town quality north new employee every act common.,2025-10-04,,Accepted Risk
+VUL00207,CVE-2024-50618,AST0155,2.5,Low,Information Disclosure,Sister early budget bank although attorney maybe other will.,2025-09-07,2026-01-05,Accepted Risk
+VUL00208,CVE-2021-93341,AST0052,1.3,Low,Information Disclosure,Offer admit gas now against.,2025-07-16,2025-10-16,Remediated
+VUL00209,CVE-2022-57234,AST0097,9.2,Critical,SQL Injection,Lot animal expect sometimes outside.,2025-03-25,2025-04-24,In Remediation
+VUL00210,CVE-2020-39508,AST0171,6.9,Medium,Authentication,Talk staff man start animal task store.,2026-01-26,,In Remediation
+VUL00211,CVE-2024-56295,AST0147,3.0,Low,Authentication,Republican suddenly trial pay recent.,2025-11-11,,Accepted Risk
+VUL00212,CVE-2020-99467,AST0074,5.2,Medium,XSS,Probably serve eat ask continue remember way money gun product wrong.,2025-03-24,2025-06-24,In Remediation
+VUL00213,CVE-2024-78764,AST0124,9.8,Critical,XSS,Protect person class million natural.,2025-08-18,,Open
+VUL00214,CVE-2023-16679,AST0165,6.9,Medium,Authentication,Arm may far movie gas officer office price.,2026-01-30,2026-02-13,In Remediation
+VUL00215,CVE-2020-64448,AST0107,3.1,Low,Encryption,Human exactly soldier bill individual must bar.,2025-04-12,2025-05-20,Accepted Risk
+VUL00216,CVE-2024-79505,AST0163,6.5,Medium,RCE,Growth clearly born by.,2025-05-19,2025-08-17,Accepted Risk
+VUL00217,CVE-2024-84029,AST0069,3.3,Low,SQL Injection,Finish as try skin must bank light across.,2025-04-13,2025-05-10,Remediated
+VUL00218,CVE-2019-21567,AST0089,4.7,Medium,Encryption,Law half personal million but stand modern value condition doctor.,2026-01-22,2026-03-10,In Remediation
+VUL00219,CVE-2019-79484,AST0020,8.5,High,Authorization,Concern successful war customer.,2025-11-13,2026-02-10,Open
+VUL00220,CVE-2021-35598,AST0013,8.2,High,Information Disclosure,Power lay left easy bag all discuss ask trade begin.,2025-08-09,2025-10-09,Accepted Risk
+VUL00221,CVE-2019-72447,AST0195,4.5,Medium,Information Disclosure,Behind could point hit worry though between make buy speech.,2025-06-15,2025-09-03,Open
+VUL00222,CVE-2024-37975,AST0018,7.2,High,Encryption,Social try plan production dinner position contain today around year.,2025-09-26,2025-12-19,Remediated
+VUL00223,CVE-2021-78821,AST0181,2.2,Low,SQL Injection,Quickly interest address identify push build.,2025-04-08,2025-04-09,Accepted Risk
+VUL00224,CVE-2019-80772,AST0187,2.4,Low,RCE,Resource easy away none top.,2025-06-27,,Remediated
+VUL00225,CVE-2022-56074,AST0199,9.8,Critical,Information Disclosure,Significant professional week still strategy need everyone.,2025-03-28,2025-07-17,Remediated
+VUL00226,CVE-2024-78023,AST0102,4.4,Medium,Encryption,Fall truth establish material bar question check low.,2025-10-03,2026-01-22,Accepted Risk
+VUL00227,CVE-2019-68557,AST0189,6.4,Medium,Authentication,Ability civil money short right tax stock goal character.,2026-01-25,2026-02-17,Accepted Risk
+VUL00228,CVE-2021-49165,AST0029,3.3,Low,RCE,Officer soon health experience strong simply some religious case perhaps.,2025-09-20,2025-10-07,Open
+VUL00229,CVE-2020-12891,AST0172,9.3,Critical,Encryption,War because different claim sense history modern.,2025-08-11,2025-10-21,Open
+VUL00230,CVE-2023-25993,AST0080,2.8,Low,SQL Injection,Most add inside soldier get.,2025-04-13,2025-05-29,In Remediation
+VUL00231,CVE-2023-70204,AST0050,2.4,Low,Authorization,Address standard spend project election part.,2025-07-16,,Remediated
+VUL00232,CVE-2020-85979,AST0170,10.0,Critical,XSS,Center can set left almost couple strategy feeling travel.,2025-08-11,2025-10-05,In Remediation
+VUL00233,CVE-2023-26703,AST0147,9.0,Critical,XSS,White become own program room instead.,2025-07-13,,In Remediation
+VUL00234,CVE-2021-84502,AST0052,1.6,Low,Encryption,Might also wish politics father direction late budget personal.,2025-10-10,2025-12-26,Open
+VUL00235,CVE-2021-73209,AST0048,3.3,Low,XSS,Week want they toward build create.,2025-08-13,2025-10-06,Open
+VUL00236,CVE-2020-41881,AST0130,9.5,Critical,Information Disclosure,Kind machine key security fall science nature hand.,2025-06-13,2025-08-04,Open
+VUL00237,CVE-2019-86068,AST0064,9.3,Critical,Encryption,Impact teacher stock most safe decade born somebody particularly.,2026-01-19,2026-01-31,Open
+VUL00238,CVE-2021-44458,AST0037,8.4,High,XSS,Require practice ability seven also identify option almost son large.,2025-06-21,,In Remediation
+VUL00239,CVE-2020-33034,AST0096,3.0,Low,RCE,Himself thought on five cold.,2025-12-18,,Remediated
+VUL00240,CVE-2020-97682,AST0146,1.9,Low,Authorization,Claim address measure red no when.,2025-06-04,2025-08-22,Open
+VUL00241,CVE-2022-27431,AST0163,7.1,High,Authorization,Right card could left enter seven spend.,2025-03-22,,Open
+VUL00242,CVE-2023-30573,AST0117,9.9,Critical,Encryption,Question body improve series operation it campaign simple amount standard she.,2025-08-23,2025-12-12,Remediated
+VUL00243,CVE-2024-91755,AST0179,6.8,Medium,RCE,Floor why include describe floor boy beyond foot next.,2025-05-20,2025-08-29,Accepted Risk
+VUL00244,CVE-2024-81102,AST0038,9.1,Critical,Authentication,Or better of nature.,2025-10-17,,In Remediation
+VUL00245,CVE-2023-78848,AST0153,7.9,High,RCE,Number agreement try always.,2025-09-10,2025-11-22,Accepted Risk
+VUL00246,CVE-2022-67187,AST0022,8.2,High,Authentication,Ever age level claim region seven ask tend hit eat.,2025-11-26,2026-02-11,In Remediation
+VUL00247,CVE-2023-77907,AST0124,7.5,High,Information Disclosure,Idea action note surface old.,2025-06-06,,Remediated
+VUL00248,CVE-2024-49703,AST0088,6.8,Medium,Information Disclosure,Assume budget with list service room red.,2025-09-22,,Open
+VUL00249,CVE-2024-60481,AST0007,9.9,Critical,Encryption,Ball season him two forward performance medical religious fine.,2026-01-16,2026-03-02,In Remediation
+VUL00250,CVE-2019-75240,AST0059,3.1,Low,SQL Injection,Still direction style kitchen pass son middle.,2025-11-20,2026-01-05,Accepted Risk
+VUL00251,CVE-2023-49700,AST0083,8.7,High,Authorization,City if whom actually relationship most.,2025-09-15,,Remediated
+VUL00252,CVE-2021-99934,AST0067,8.0,High,Encryption,Apply trouble their pretty investment lose new.,2025-05-22,,Accepted Risk
+VUL00253,CVE-2020-57984,AST0138,3.6,Low,XSS,Face per easy project low again democratic phone relate.,2025-02-18,2025-03-08,Accepted Risk
+VUL00254,CVE-2019-23108,AST0175,9.5,Critical,Authorization,Compare poor then cover across attorney.,2025-09-07,2025-12-28,Accepted Risk
+VUL00255,CVE-2019-52277,AST0132,9.9,Critical,Authorization,Necessary break talk stay whatever.,2025-11-21,2026-01-05,Open
+VUL00256,CVE-2021-55079,AST0180,9.7,Critical,RCE,Within loss food until or member.,2025-03-30,2025-06-15,Open
+VUL00257,CVE-2019-28624,AST0183,1.7,Low,Authorization,Writer it plant other.,2026-01-02,,Accepted Risk
+VUL00258,CVE-2022-39886,AST0157,7.9,High,Encryption,Across eight fall lay lay water.,2025-02-26,2025-03-18,Remediated
+VUL00259,CVE-2024-35754,AST0038,6.9,Medium,Authentication,Accept admit good interview store ahead design sit.,2025-12-31,,Remediated
+VUL00260,CVE-2022-71400,AST0006,6.4,Medium,XSS,Somebody financial generation talk have politics over field exactly arrive.,2025-09-24,,In Remediation
+VUL00261,CVE-2021-17076,AST0005,3.2,Low,Information Disclosure,Sing might focus ahead reality cold challenge remember.,2025-11-23,2026-02-08,Open
+VUL00262,CVE-2021-82649,AST0002,4.1,Medium,Encryption,Environmental easy specific drop none raise weight.,2025-08-14,2025-09-11,In Remediation
+VUL00263,CVE-2021-79910,AST0146,2.1,Low,Information Disclosure,Present call north heavy real cut others drug best push experience.,2026-01-20,,Accepted Risk
+VUL00264,CVE-2022-83379,AST0108,7.8,High,Authentication,Consider dream piece them during huge decade help.,2025-05-28,2025-07-25,In Remediation
+VUL00265,CVE-2019-60046,AST0053,4.5,Medium,XSS,If ten big popular involve budget institution.,2026-01-07,,Open
+VUL00266,CVE-2024-58707,AST0067,4.0,Medium,Authorization,Movie edge so police while let build cost allow others.,2025-05-06,,Open
+VUL00267,CVE-2022-98684,AST0142,3.9,Low,Encryption,Trade week they political across.,2025-10-10,2025-11-26,Remediated
+VUL00268,CVE-2021-67086,AST0080,7.3,High,SQL Injection,Mrs detail sport fact operation treatment through such ask.,2025-05-20,,Accepted Risk
+VUL00269,CVE-2021-96476,AST0021,6.5,Medium,Authentication,Throw property want week campaign treat poor shake fill.,2025-12-18,,Remediated
+VUL00270,CVE-2023-44106,AST0166,4.5,Medium,Authentication,More machine eye whole phone however social sea.,2025-05-30,2025-07-05,In Remediation
+VUL00271,CVE-2023-32238,AST0068,9.9,Critical,Encryption,Dream others which which free peace force trip back one.,2025-12-23,2026-04-07,Open
+VUL00272,CVE-2024-68783,AST0120,9.8,Critical,XSS,Find often personal position sell.,2025-05-16,,Open
+VUL00273,CVE-2021-42952,AST0073,8.7,High,Encryption,Her perhaps ever soon stuff debate stock group.,2025-06-16,2025-08-02,Accepted Risk
+VUL00274,CVE-2019-51826,AST0058,7.6,High,Authorization,Often think crime building discuss.,2025-11-10,2026-01-19,Open
+VUL00275,CVE-2024-54841,AST0166,1.6,Low,Authorization,Force Mrs compare TV serious too compare discuss military message.,2025-04-27,,Open
+VUL00276,CVE-2023-41606,AST0163,7.0,High,SQL Injection,This candidate call pattern range indeed either candidate.,2026-01-13,,Remediated
+VUL00277,CVE-2021-59586,AST0015,4.9,Medium,XSS,Well learn relationship bar throw design here officer property.,2026-01-31,2026-04-25,Open
+VUL00278,CVE-2022-70872,AST0013,5.8,Medium,Authentication,Describe rule past director above responsibility partner style.,2025-07-25,,In Remediation
+VUL00279,CVE-2021-38417,AST0121,8.8,High,SQL Injection,Democratic response evening to plant.,2025-03-02,,Open
+VUL00280,CVE-2020-15292,AST0090,4.2,Medium,Encryption,Maybe dream role area agent.,2025-04-13,,Accepted Risk
+VUL00281,CVE-2022-72361,AST0145,1.6,Low,XSS,Story explain hotel marriage begin year help.,2025-12-06,2026-02-08,Accepted Risk
+VUL00282,CVE-2022-98392,AST0107,8.2,High,Information Disclosure,New should year per apply line radio it since.,2025-03-03,2025-05-13,In Remediation
+VUL00283,CVE-2019-42812,AST0019,7.9,High,Authentication,Trouble through recognize be ever bank.,2025-08-06,2025-10-02,Open
+VUL00284,CVE-2020-96392,AST0009,8.5,High,Authorization,Medical eye grow treat station democratic black community charge.,2025-12-24,2026-01-12,Remediated
+VUL00285,CVE-2024-83494,AST0083,3.1,Low,Information Disclosure,Provide thank son and local.,2026-02-15,2026-03-19,In Remediation
+VUL00286,CVE-2024-76944,AST0020,1.4,Low,XSS,After religious career chair movement team.,2025-05-10,,Accepted Risk
+VUL00287,CVE-2021-46373,AST0133,4.7,Medium,Encryption,Apply expect say vote rock pick.,2025-09-17,2025-11-27,Accepted Risk
+VUL00288,CVE-2019-32221,AST0094,3.6,Low,Encryption,Woman weight bag moment ago be will consider way.,2025-12-23,2026-01-15,In Remediation
+VUL00289,CVE-2022-21633,AST0119,9.1,Critical,XSS,Face analysis why someone necessary peace skill speech focus.,2025-06-16,2025-07-30,Remediated
+VUL00290,CVE-2019-21384,AST0185,2.7,Low,Information Disclosure,Accept front level news line medical per.,2025-12-22,2026-03-29,Open
+VUL00291,CVE-2023-35111,AST0100,2.3,Low,SQL Injection,Conference part full director church.,2025-06-24,2025-10-11,Remediated
+VUL00292,CVE-2024-14989,AST0036,3.3,Low,Authentication,Involve old eat behind significant scene letter staff.,2025-06-01,,Remediated
+VUL00293,CVE-2021-56424,AST0168,5.7,Medium,SQL Injection,Away free game have fine former tree compare off.,2025-07-20,2025-08-09,In Remediation
+VUL00294,CVE-2019-53264,AST0121,3.2,Low,Authorization,Majority free join outside raise author thus born.,2025-03-19,,In Remediation
+VUL00295,CVE-2020-18941,AST0060,4.9,Medium,SQL Injection,Better catch edge vote include.,2025-09-08,2025-12-20,In Remediation
+VUL00296,CVE-2019-53253,AST0147,3.9,Low,XSS,Same husband food show standard expert sense reason mission discover.,2025-04-09,2025-07-06,Accepted Risk
+VUL00297,CVE-2019-28112,AST0046,1.4,Low,Encryption,Interest inside structure baby become nearly strategy.,2025-11-27,,Accepted Risk
+VUL00298,CVE-2023-79506,AST0107,3.8,Low,Information Disclosure,Quite industry white write idea.,2025-02-21,2025-03-06,Remediated
+VUL00299,CVE-2022-51899,AST0005,2.3,Low,Information Disclosure,Spring exactly since day too great community.,2025-07-29,,Open
+VUL00300,CVE-2021-30549,AST0077,8.0,High,Information Disclosure,Page wall such likely contain late responsibility guess.,2025-10-15,,Remediated
+VUL00301,CVE-2021-13295,AST0183,1.5,Low,Authentication,Suffer understand live democratic point class force.,2025-06-19,,Remediated
+VUL00302,CVE-2021-64440,AST0068,1.6,Low,XSS,Exist eat decide word send his second.,2025-11-19,2026-03-15,In Remediation
+VUL00303,CVE-2023-90483,AST0113,2.1,Low,Encryption,Fine but condition state culture face reason raise trouble magazine.,2025-06-02,2025-09-03,In Remediation
+VUL00304,CVE-2022-47695,AST0017,1.9,Low,Authorization,Rise score its rather performance because trade fear charge message.,2025-09-21,,Remediated
+VUL00305,CVE-2024-66573,AST0196,7.0,High,Encryption,Old street return effort should crime note fish citizen there.,2025-10-28,2026-02-10,Accepted Risk
+VUL00306,CVE-2022-84205,AST0200,6.1,Medium,RCE,Economy simply artist view compare value include sport take buy.,2025-09-03,,Accepted Risk
+VUL00307,CVE-2021-84989,AST0192,5.9,Medium,Encryption,Evening democratic approach Democrat back apply thus word major.,2025-05-31,,Open
+VUL00308,CVE-2023-81754,AST0187,3.3,Low,Authorization,Trip sister action third society.,2025-12-20,,Open
+VUL00309,CVE-2022-49208,AST0045,9.7,Critical,XSS,Last the increase read brother special magazine deal even.,2025-11-09,2026-03-09,Accepted Risk
+VUL00310,CVE-2019-82447,AST0080,4.4,Medium,Encryption,Old right behavior too full together smile me.,2025-02-22,,Open
+VUL00311,CVE-2019-66121,AST0085,5.8,Medium,Encryption,Wind drug term board someone provide war out structure.,2025-12-16,2026-03-01,Open
+VUL00312,CVE-2022-96973,AST0081,2.8,Low,Authorization,Gas country choice source study me man develop.,2025-09-29,,Remediated
+VUL00313,CVE-2022-16973,AST0199,4.3,Medium,Encryption,Join me from situation firm wrong subject Democrat.,2025-11-28,2025-11-30,Accepted Risk
+VUL00314,CVE-2024-92394,AST0083,1.1,Low,Encryption,Toward time likely last media which among officer.,2026-02-17,,Remediated
+VUL00315,CVE-2023-47125,AST0117,4.7,Medium,Authorization,Across car news expect voice again medical produce.,2025-12-24,2026-03-31,In Remediation
+VUL00316,CVE-2020-67124,AST0185,1.7,Low,SQL Injection,Leader evidence option start forward large language east focus.,2025-09-06,2025-10-27,In Remediation
+VUL00317,CVE-2020-91966,AST0164,4.7,Medium,Encryption,Image wear if event since Democrat.,2025-12-20,2026-01-18,In Remediation
+VUL00318,CVE-2022-41420,AST0087,9.9,Critical,XSS,Evidence usually something give plan program meet price.,2025-02-28,2025-05-19,Remediated
+VUL00319,CVE-2023-32980,AST0007,6.7,Medium,RCE,Conference after live successful network nothing stay.,2025-11-29,2025-12-14,In Remediation
+VUL00320,CVE-2022-26182,AST0102,1.4,Low,SQL Injection,Probably tend life think public rest its show up.,2026-01-31,2026-05-05,In Remediation
+VUL00321,CVE-2020-95989,AST0048,7.2,High,Authorization,Bring should prevent maybe west wish according include.,2025-08-11,,Open
+VUL00322,CVE-2021-86590,AST0177,4.3,Medium,SQL Injection,Day friend break finally on property.,2026-01-15,,Open
+VUL00323,CVE-2024-56834,AST0002,9.4,Critical,Authentication,Listen back majority action act event author.,2025-08-04,,In Remediation
+VUL00324,CVE-2019-73867,AST0170,5.6,Medium,RCE,Ok remember painting rise over modern.,2025-03-28,2025-05-19,Remediated
+VUL00325,CVE-2020-52895,AST0131,6.8,Medium,Authentication,Quickly deal example morning stop.,2025-04-02,,Open
+VUL00326,CVE-2024-33165,AST0072,6.1,Medium,Authentication,Street turn prepare father party.,2026-01-01,2026-02-21,Accepted Risk
+VUL00327,CVE-2024-42883,AST0135,8.2,High,Encryption,Fight certain reach news director detail movie.,2026-02-12,2026-03-03,Remediated
+VUL00328,CVE-2024-18842,AST0008,4.0,Medium,XSS,Protect truth attention respond worker chance keep establish another amount.,2025-05-24,,Remediated
+VUL00329,CVE-2021-46340,AST0105,1.9,Low,Encryption,Million clear able few senior.,2025-12-10,2026-01-23,Remediated
+VUL00330,CVE-2019-25050,AST0088,7.9,High,XSS,Major hard analysis one well building push arm.,2025-06-17,,In Remediation
+VUL00331,CVE-2019-27141,AST0053,8.8,High,Authentication,Nearly indicate break minute anything someone company.,2025-10-08,2025-12-27,Remediated
+VUL00332,CVE-2021-46306,AST0177,1.6,Low,Information Disclosure,Cost learn her alone help huge compare word like only.,2025-05-25,2025-08-08,Remediated
+VUL00333,CVE-2024-87071,AST0062,4.7,Medium,SQL Injection,Fast star ok suffer street claim nature they become.,2025-12-14,2026-04-03,Remediated
+VUL00334,CVE-2020-53408,AST0175,1.8,Low,Authentication,Both important meet something should.,2025-12-13,2026-01-25,Remediated
+VUL00335,CVE-2021-82032,AST0116,1.4,Low,XSS,Among visit sometimes local in possible message.,2025-05-20,2025-08-27,Remediated
+VUL00336,CVE-2020-67292,AST0110,3.7,Low,RCE,Ok rule pressure north perhaps evening establish forget focus research.,2025-02-22,,Open
+VUL00337,CVE-2019-37154,AST0161,9.9,Critical,RCE,Chance economy experience us loss.,2025-09-21,2026-01-06,Open
+VUL00338,CVE-2021-63115,AST0195,2.0,Low,Authentication,Three water trip focus machine help new evidence ready.,2025-11-27,,Accepted Risk
+VUL00339,CVE-2023-53864,AST0046,9.2,Critical,RCE,Family figure eye art ability.,2026-01-03,2026-02-10,Open
+VUL00340,CVE-2020-36628,AST0193,4.7,Medium,RCE,Identify middle wide begin reveal.,2025-09-16,,Open
+VUL00341,CVE-2021-14136,AST0166,4.3,Medium,Authorization,Director debate present today thank choose white.,2025-09-16,,In Remediation
+VUL00342,CVE-2022-26369,AST0163,7.4,High,Authentication,Safe technology according long gas.,2025-03-10,2025-05-08,Accepted Risk
+VUL00343,CVE-2023-98017,AST0115,1.4,Low,Authentication,Which bank worry live fall plant.,2025-12-27,,In Remediation
+VUL00344,CVE-2023-98853,AST0012,6.8,Medium,XSS,Paper change kid paper bar because wait.,2025-09-26,2025-12-28,Remediated
+VUL00345,CVE-2023-22778,AST0049,4.8,Medium,XSS,Simple keep allow foreign agent.,2025-08-03,,In Remediation
+VUL00346,CVE-2022-24499,AST0083,8.5,High,Information Disclosure,Upon cut remain woman plant since home agree choose region early.,2025-06-21,,Remediated
+VUL00347,CVE-2022-66050,AST0065,9.8,Critical,Authentication,My despite event star lay behind idea unit tax trade much.,2025-04-22,,Open
+VUL00348,CVE-2024-20119,AST0001,5.7,Medium,Authorization,Car check read culture share send change window each.,2026-01-31,2026-04-14,In Remediation
+VUL00349,CVE-2024-75040,AST0101,5.2,Medium,Authorization,Game daughter foot despite player get.,2025-10-02,2025-12-16,Remediated
+VUL00350,CVE-2024-79785,AST0012,8.9,High,Encryption,Dinner a information course effort feeling article.,2025-07-29,2025-10-28,In Remediation
+VUL00351,CVE-2020-98833,AST0058,2.4,Low,Authentication,Reflect for voice majority deal suffer.,2025-08-09,2025-10-16,Open
+VUL00352,CVE-2024-22133,AST0015,1.0,Low,Encryption,Anything very fight year sit.,2025-11-13,2026-03-01,Open
+VUL00353,CVE-2022-53227,AST0149,1.3,Low,Authorization,Instead fall pressure continue they.,2025-10-21,2025-11-28,Remediated
+VUL00354,CVE-2021-37025,AST0158,2.7,Low,Authorization,Me when night professor if participant open see together.,2026-01-13,,Remediated
+VUL00355,CVE-2019-81861,AST0168,1.3,Low,XSS,Weight responsibility prepare factor allow trouble.,2025-05-30,,Open
+VUL00356,CVE-2024-89323,AST0003,7.6,High,Authentication,Time candidate only young make rest.,2026-01-12,,Open
+VUL00357,CVE-2022-34423,AST0037,7.3,High,Authentication,Third name wife trial ahead.,2025-03-08,2025-05-03,Open
+VUL00358,CVE-2019-31237,AST0083,6.4,Medium,SQL Injection,Interesting always arm property brother level certain it.,2025-05-09,,Open
+VUL00359,CVE-2022-68150,AST0010,4.2,Medium,RCE,Page bed approach each company glass.,2025-06-23,,Open
+VUL00360,CVE-2024-85462,AST0119,6.2,Medium,RCE,Present first feeling large can.,2025-07-11,2025-07-19,Accepted Risk
+VUL00361,CVE-2020-46020,AST0138,9.1,Critical,Authorization,American none dog summer.,2026-02-05,,Accepted Risk
+VUL00362,CVE-2023-66299,AST0140,8.3,High,Information Disclosure,Carry more field shoulder.,2025-07-03,2025-08-19,Accepted Risk
+VUL00363,CVE-2021-77219,AST0075,6.2,Medium,Authentication,Instead significant impact financial election economic leader training defense.,2025-09-08,2026-01-04,In Remediation
+VUL00364,CVE-2022-25773,AST0022,8.1,High,Encryption,International maybe analysis address their enjoy.,2026-02-03,,Accepted Risk
+VUL00365,CVE-2024-81405,AST0127,3.4,Low,SQL Injection,Hotel least must than education foreign.,2025-09-27,,In Remediation
+VUL00366,CVE-2024-39116,AST0147,1.5,Low,Encryption,Whose majority sister compare sense trial question national.,2025-12-04,,Remediated
+VUL00367,CVE-2023-97745,AST0040,8.0,High,XSS,Source product southern seem challenge.,2025-04-15,,Open
+VUL00368,CVE-2021-76123,AST0174,5.4,Medium,Encryption,Effort often wait maintain five deal.,2025-09-22,2025-12-01,In Remediation
+VUL00369,CVE-2021-96893,AST0055,8.1,High,Information Disclosure,Author investment seem body east money.,2025-08-09,2025-08-15,Open
+VUL00370,CVE-2022-49724,AST0130,4.0,Medium,XSS,Second example suffer whose town instead.,2025-02-20,,Open
+VUL00371,CVE-2023-61395,AST0136,9.1,Critical,RCE,Year last level ball serious.,2025-05-29,2025-06-11,In Remediation
+VUL00372,CVE-2023-86220,AST0069,3.0,Low,Authorization,Else main as medical information senior any guy.,2025-12-05,2026-02-15,Open
+VUL00373,CVE-2020-38367,AST0152,5.0,Medium,Information Disclosure,Quite measure against of campaign share.,2025-10-10,2025-12-28,Remediated
+VUL00374,CVE-2022-10864,AST0023,1.1,Low,SQL Injection,Show mention many organization measure actually.,2025-05-24,2025-08-26,Open
+VUL00375,CVE-2022-64298,AST0196,1.7,Low,Information Disclosure,Resource so few grow security race around team admit rate.,2025-05-17,2025-08-02,Accepted Risk
+VUL00376,CVE-2020-74515,AST0109,2.8,Low,Authentication,Thousand most call claim should free level own whole.,2026-02-01,2026-05-01,Open
+VUL00377,CVE-2019-48579,AST0082,2.9,Low,RCE,Security study research plan baby five heavy fund thousand him.,2025-11-14,,Remediated
+VUL00378,CVE-2023-70969,AST0139,9.2,Critical,SQL Injection,Building fact hospital life over huge less ability.,2025-11-09,2026-01-27,Remediated
+VUL00379,CVE-2019-94631,AST0004,6.7,Medium,SQL Injection,Thus woman door project ten American although spring.,2025-03-29,,In Remediation
+VUL00380,CVE-2019-39225,AST0044,5.4,Medium,RCE,Community present goal everybody in here allow white order east.,2025-04-23,,Remediated
+VUL00381,CVE-2023-94605,AST0052,8.6,High,Authentication,Off right plan save follow sometimes.,2025-12-08,,Open
+VUL00382,CVE-2022-54205,AST0133,9.0,Critical,XSS,House personal decide single institution data option method maintain.,2025-06-05,2025-10-02,Open
+VUL00383,CVE-2020-52775,AST0191,1.4,Low,Encryption,Account maintain economic will bad build hold.,2025-08-24,2025-10-02,Open
+VUL00384,CVE-2021-30934,AST0077,5.7,Medium,Encryption,Color hit win hit organization scientist.,2025-03-30,2025-05-18,Open
+VUL00385,CVE-2019-92721,AST0173,6.5,Medium,Authentication,Head statement type business military term stuff.,2025-05-02,,Remediated
+VUL00386,CVE-2023-79082,AST0153,2.8,Low,Authorization,Avoid site already fact usually leg.,2025-10-30,,Accepted Risk
+VUL00387,CVE-2019-51598,AST0095,3.0,Low,Encryption,Model because movie newspaper yourself base put recent face successful.,2026-01-30,2026-05-02,Accepted Risk
+VUL00388,CVE-2019-60618,AST0096,1.5,Low,Authentication,Begin style itself act more media probably research doctor.,2025-09-14,2025-10-10,Open
+VUL00389,CVE-2024-53962,AST0136,6.9,Medium,Authorization,Accept thought at degree red pressure less public.,2025-09-13,,Accepted Risk
+VUL00390,CVE-2024-92868,AST0169,7.2,High,RCE,Sell report raise stand live.,2025-04-01,,In Remediation
+VUL00391,CVE-2021-68010,AST0065,7.0,High,Authentication,On trip someone sell assume improve example box.,2025-03-05,2025-03-06,Remediated
+VUL00392,CVE-2020-62186,AST0039,7.0,High,RCE,Since age fast politics where magazine know.,2025-11-26,2026-01-22,Open
+VUL00393,CVE-2020-11131,AST0163,6.3,Medium,RCE,Board data listen bring seven base image else law reduce.,2025-05-26,2025-06-22,Open
+VUL00394,CVE-2019-26505,AST0082,9.6,Critical,Information Disclosure,Hear list act hear yes ahead sea director.,2026-02-09,2026-03-24,Open
+VUL00395,CVE-2019-79149,AST0002,3.2,Low,Encryption,Rock home sort piece short.,2025-04-16,,Accepted Risk
+VUL00396,CVE-2020-78483,AST0014,5.6,Medium,Authorization,Dinner bad law explain great need author police.,2025-12-05,2026-03-01,Remediated
+VUL00397,CVE-2020-51969,AST0094,4.7,Medium,Encryption,Those author what data.,2025-09-13,,In Remediation
+VUL00398,CVE-2023-86420,AST0147,4.5,Medium,Information Disclosure,Change subject guy beautiful force religious north.,2025-08-12,2025-11-26,In Remediation
+VUL00399,CVE-2023-59886,AST0124,4.2,Medium,SQL Injection,Court medical something idea free expert join near position.,2025-08-02,,Accepted Risk
+VUL00400,CVE-2022-84197,AST0110,9.7,Critical,Information Disclosure,Magazine fast television truth say reach sea my.,2025-04-05,2025-05-30,Accepted Risk
+VUL00401,CVE-2022-83504,AST0093,1.4,Low,Encryption,Maintain seat interview tonight what those participant run.,2025-09-19,,Open
+VUL00402,CVE-2023-18393,AST0021,2.1,Low,Authentication,Everybody brother affect knowledge your station admit bed exactly.,2025-09-30,2026-01-10,Open
+VUL00403,CVE-2022-85947,AST0056,3.0,Low,XSS,Left join two environment.,2025-11-08,,Open
+VUL00404,CVE-2023-13627,AST0073,2.6,Low,Authorization,Shoulder party according modern figure.,2025-06-18,,In Remediation
+VUL00405,CVE-2020-32073,AST0080,9.4,Critical,RCE,Project away west realize wish force thing.,2025-03-08,,Open
+VUL00406,CVE-2023-98928,AST0104,1.0,Low,Authentication,College and water evening.,2025-12-04,,Accepted Risk
+VUL00407,CVE-2024-60943,AST0032,5.5,Medium,Authentication,Environment people difference sense forward quickly.,2026-02-07,2026-04-25,In Remediation
+VUL00408,CVE-2024-87051,AST0128,5.8,Medium,XSS,Black technology focus almost theory mission husband trip.,2025-06-08,,Accepted Risk
+VUL00409,CVE-2022-13801,AST0054,9.1,Critical,Authentication,Girl tend focus table wish name.,2025-09-30,2025-10-17,Accepted Risk
+VUL00410,CVE-2020-95156,AST0193,9.7,Critical,Encryption,Fire cover phone these perform single early why sort level.,2026-02-03,,Remediated
+VUL00411,CVE-2023-36883,AST0130,1.5,Low,SQL Injection,Technology those girl key writer else miss.,2025-08-12,2025-10-22,In Remediation
+VUL00412,CVE-2021-75468,AST0073,8.4,High,Authentication,Determine high seek Congress scientist to art against coach hit.,2025-10-31,2025-12-16,Accepted Risk
+VUL00413,CVE-2020-12881,AST0066,8.3,High,RCE,Successful college toward write poor finally step statement heart letter employee.,2025-09-01,,Remediated
+VUL00414,CVE-2020-68014,AST0164,4.8,Medium,SQL Injection,Decision movie stuff understand final involve hear.,2025-12-16,2025-12-28,Remediated
+VUL00415,CVE-2022-69525,AST0013,9.9,Critical,RCE,Along within middle another treat individual fill compare.,2025-09-07,2025-11-06,In Remediation
+VUL00416,CVE-2023-75573,AST0047,9.7,Critical,Encryption,Concern political protect social involve beat lose region project protect.,2025-08-06,2025-10-03,Open
+VUL00417,CVE-2020-55984,AST0141,9.6,Critical,RCE,Well heavy happen glass technology than she world.,2026-01-19,,Remediated
+VUL00418,CVE-2021-71066,AST0138,2.8,Low,Information Disclosure,About fly science late item visit war career.,2025-04-15,,Accepted Risk
+VUL00419,CVE-2020-15936,AST0079,9.9,Critical,XSS,Natural kitchen interesting actually magazine successful minute growth agreement.,2025-04-06,2025-05-08,Accepted Risk
+VUL00420,CVE-2024-95518,AST0035,4.8,Medium,Authorization,Action their world song national sport prove enjoy direction though give.,2026-01-18,2026-03-21,In Remediation
+VUL00421,CVE-2020-33741,AST0100,5.5,Medium,Information Disclosure,Pull kid kind away fight.,2025-12-02,,Open
+VUL00422,CVE-2021-69875,AST0115,4.2,Medium,Encryption,Somebody type rate little trade month.,2025-10-20,2025-12-20,Remediated
+VUL00423,CVE-2020-83772,AST0185,4.8,Medium,Authentication,She trial statement break.,2025-11-04,,Open
+VUL00424,CVE-2022-63398,AST0184,7.3,High,Encryption,Star place world feel store.,2025-11-19,,Open
+VUL00425,CVE-2021-83868,AST0065,9.2,Critical,XSS,Ground summer population this whole former hard.,2025-07-01,2025-07-04,Accepted Risk
+VUL00426,CVE-2022-48533,AST0137,4.4,Medium,Authentication,Food market daughter suffer particularly foreign white maybe pass follow huge.,2025-08-23,,Remediated
+VUL00427,CVE-2020-40164,AST0168,1.0,Low,Authentication,Heart prepare evening officer interest eye.,2025-12-14,,Remediated
+VUL00428,CVE-2023-27547,AST0021,1.7,Low,SQL Injection,Religious top recent child inside sort PM.,2025-09-02,2025-11-16,In Remediation
+VUL00429,CVE-2020-57656,AST0083,1.4,Low,Authentication,Form while economy board blood same age majority.,2025-08-07,,Accepted Risk
+VUL00430,CVE-2023-18433,AST0079,3.4,Low,Authorization,Build actually effect down so over chair brother later.,2025-10-14,2025-11-12,Remediated
+VUL00431,CVE-2019-99877,AST0184,5.6,Medium,Information Disclosure,Decide various evidence significant sea find.,2025-07-13,2025-09-07,Accepted Risk
+VUL00432,CVE-2019-97321,AST0039,1.5,Low,RCE,Watch meeting population until religious perhaps hold camera.,2025-07-02,,Remediated
+VUL00433,CVE-2022-76223,AST0108,6.8,Medium,XSS,On however home top direction statement class.,2025-12-12,,Open
+VUL00434,CVE-2022-82068,AST0018,1.2,Low,XSS,Economic certainly mind line force.,2025-09-03,,Accepted Risk
+VUL00435,CVE-2020-88913,AST0125,7.2,High,Authorization,Approach will from learn art the job image play.,2026-02-16,2026-03-31,In Remediation
+VUL00436,CVE-2021-61957,AST0162,5.5,Medium,Authentication,Culture stage hospital dream address citizen couple quite forward.,2025-11-12,,In Remediation
+VUL00437,CVE-2020-67421,AST0032,5.0,Medium,RCE,Around father art theory surface inside try truth oil.,2025-08-17,2025-08-31,In Remediation
+VUL00438,CVE-2023-51317,AST0095,5.6,Medium,Authentication,Brother everyone son travel any Congress stage modern create paper.,2025-09-07,,In Remediation
+VUL00439,CVE-2023-31873,AST0169,8.6,High,XSS,Beyond contain full difficult relationship thank deep tax federal attack.,2025-06-22,2025-09-09,Open
+VUL00440,CVE-2019-94926,AST0117,5.0,Medium,RCE,With teacher southern public work wind cover similar end firm.,2025-05-22,2025-08-17,Remediated
+VUL00441,CVE-2019-94931,AST0107,5.6,Medium,Encryption,Phone opportunity foreign quickly morning skin first ahead bill.,2025-11-26,,In Remediation
+VUL00442,CVE-2023-97401,AST0149,4.3,Medium,Authentication,Hand generation build light clear dream outside.,2025-12-01,2026-01-28,Accepted Risk
+VUL00443,CVE-2021-36308,AST0145,6.5,Medium,RCE,Help material thus election town hold improve those technology.,2025-11-18,,Remediated
+VUL00444,CVE-2023-65269,AST0179,3.2,Low,XSS,Minute four life bank assume floor.,2025-04-14,,Accepted Risk
+VUL00445,CVE-2023-67475,AST0009,8.6,High,Authorization,Young certainly decade catch everyone measure how hair.,2026-01-18,2026-01-21,Accepted Risk
+VUL00446,CVE-2024-22338,AST0123,6.5,Medium,SQL Injection,Western realize might product.,2025-08-12,2025-10-04,In Remediation
+VUL00447,CVE-2022-26064,AST0047,7.8,High,RCE,Avoid computer something picture painting apply large.,2025-02-25,2025-03-10,Remediated
+VUL00448,CVE-2019-17803,AST0026,1.9,Low,Authentication,Leave culture military information those administration.,2025-05-23,2025-09-18,Accepted Risk
+VUL00449,CVE-2022-28612,AST0173,5.1,Medium,XSS,Few social sing quite wait reality act.,2025-07-13,2025-07-24,Remediated
+VUL00450,CVE-2021-71928,AST0025,1.7,Low,Encryption,Outside fill rate standard it respond outside.,2025-06-02,2025-08-30,Accepted Risk
+VUL00451,CVE-2024-87141,AST0055,6.9,Medium,Authorization,Cause significant significant accept season.,2025-04-19,2025-07-01,Remediated
+VUL00452,CVE-2024-14769,AST0020,6.9,Medium,Encryption,Democratic top score together.,2025-11-18,2026-02-09,Remediated
+VUL00453,CVE-2019-11643,AST0126,2.6,Low,Authorization,Cup high machine policy picture southern north forward.,2025-06-01,2025-06-23,Accepted Risk
+VUL00454,CVE-2021-38853,AST0027,2.5,Low,Authentication,Gas group behavior your southern more.,2025-03-06,2025-06-30,Accepted Risk
+VUL00455,CVE-2021-21391,AST0189,3.8,Low,XSS,Amount age ground unit where difference.,2025-10-01,2025-12-09,Remediated
+VUL00456,CVE-2020-24058,AST0120,8.1,High,SQL Injection,Small view step guess.,2026-01-07,2026-02-13,Accepted Risk
+VUL00457,CVE-2020-36052,AST0084,9.1,Critical,XSS,Land alone glass structure majority cup project.,2026-01-04,,In Remediation
+VUL00458,CVE-2019-45533,AST0178,2.5,Low,Information Disclosure,Method brother movie area since.,2025-09-03,2025-09-22,Accepted Risk
+VUL00459,CVE-2021-45532,AST0135,5.6,Medium,RCE,Play actually able ever beyond particular.,2025-05-03,2025-07-22,Accepted Risk
+VUL00460,CVE-2019-74945,AST0090,9.7,Critical,Encryption,Leader without tough defense mention art question.,2025-02-25,2025-03-22,Open
+VUL00461,CVE-2020-32887,AST0154,9.0,Critical,Encryption,Final thought Democrat size security economy myself.,2025-11-06,2025-12-16,Accepted Risk
+VUL00462,CVE-2023-70158,AST0102,7.8,High,Authentication,Season there total professor market.,2025-07-22,2025-11-19,In Remediation
+VUL00463,CVE-2023-25595,AST0056,5.8,Medium,Information Disclosure,See form positive major center nation represent trip scientist agent usually.,2025-03-31,2025-06-26,Remediated
+VUL00464,CVE-2022-28657,AST0094,3.7,Low,RCE,Able child pass industry civil know pull down current.,2025-09-30,,Open
+VUL00465,CVE-2019-88878,AST0200,9.8,Critical,Authentication,Street school such crime necessary decision may three worry.,2025-11-29,,Accepted Risk
+VUL00466,CVE-2019-15613,AST0193,8.4,High,Authorization,If chance fact eye west sense discuss speak.,2025-07-10,2025-09-29,In Remediation
+VUL00467,CVE-2020-87153,AST0120,4.1,Medium,Information Disclosure,Away down pass blue so perhaps hear me management.,2025-04-30,,In Remediation
+VUL00468,CVE-2019-18494,AST0163,6.3,Medium,Authentication,President player section everything itself usually dream wait good.,2025-03-29,2025-07-06,Accepted Risk
+VUL00469,CVE-2023-33920,AST0125,3.4,Low,Authentication,Break probably public range relationship.,2025-11-07,2025-11-08,In Remediation
+VUL00470,CVE-2021-26722,AST0088,1.3,Low,RCE,Notice newspaper today black effort.,2026-02-07,,In Remediation
+VUL00471,CVE-2022-85944,AST0141,8.9,High,Encryption,Though far season but owner feel wall executive upon.,2026-02-11,,Remediated
+VUL00472,CVE-2022-77332,AST0164,7.0,High,Encryption,Behavior occur among else raise.,2025-09-17,2026-01-06,Accepted Risk
+VUL00473,CVE-2020-56186,AST0127,3.0,Low,Encryption,Crime present fund behind upon experience whom product return century.,2025-03-27,,Accepted Risk
+VUL00474,CVE-2022-35088,AST0035,8.7,High,XSS,Can yes relate require customer stuff seek look crime can.,2025-06-27,2025-08-28,Open
+VUL00475,CVE-2020-41673,AST0053,1.8,Low,Authentication,Very order accept southern whatever statement expert sit.,2025-03-27,2025-06-04,Accepted Risk
+VUL00476,CVE-2021-67299,AST0043,3.5,Low,Authorization,System tree clearly finally.,2025-08-03,,In Remediation
+VUL00477,CVE-2024-76093,AST0096,6.4,Medium,SQL Injection,Nearly you coach much space in.,2025-11-29,2026-02-21,Open
+VUL00478,CVE-2020-33063,AST0140,4.8,Medium,XSS,Firm individual consumer bed glass Democrat.,2025-08-30,,Remediated
+VUL00479,CVE-2020-70694,AST0198,9.3,Critical,Authorization,Determine collection statement usually only build authority break put lose.,2026-01-19,2026-03-19,Remediated
+VUL00480,CVE-2020-72188,AST0192,7.0,High,Information Disclosure,Cover western glass believe science successful for.,2025-07-10,2025-10-01,In Remediation
+VUL00481,CVE-2021-12193,AST0150,3.7,Low,Information Disclosure,Through understand kid exactly best rule assume fear pay information.,2026-01-07,,Remediated
+VUL00482,CVE-2019-15371,AST0061,2.7,Low,Authentication,Data cost reveal wonder program gun place mean state.,2025-06-28,,In Remediation
+VUL00483,CVE-2022-81206,AST0028,7.5,High,Authorization,Work laugh benefit probably our week too best.,2025-03-17,,Accepted Risk
+VUL00484,CVE-2021-19016,AST0032,1.7,Low,Encryption,Individual next worker show write goal north town.,2025-07-04,2025-09-10,Open
+VUL00485,CVE-2020-46372,AST0119,6.3,Medium,SQL Injection,Yourself what people nearly involve who sign.,2026-01-21,2026-03-27,Open
+VUL00486,CVE-2021-15545,AST0048,9.1,Critical,Information Disclosure,Worry performance give science share ability moment international.,2025-09-02,,Accepted Risk
+VUL00487,CVE-2020-27820,AST0024,6.3,Medium,XSS,Black expert fight my bank.,2025-07-31,2025-09-04,Open
+VUL00488,CVE-2021-83571,AST0072,5.5,Medium,Encryption,History teach month him letter.,2025-03-04,2025-05-01,Remediated
+VUL00489,CVE-2024-40963,AST0028,6.1,Medium,XSS,Beautiful public it computer worker store power leg others.,2025-06-03,2025-09-29,Accepted Risk
+VUL00490,CVE-2020-63295,AST0139,9.2,Critical,Information Disclosure,Again human discover meet choose administration join though radio.,2025-03-27,2025-07-02,Remediated
+VUL00491,CVE-2023-10419,AST0008,8.9,High,Authentication,Drive majority because rest walk important hotel fall.,2025-08-15,,In Remediation
+VUL00492,CVE-2024-82342,AST0023,9.0,Critical,Authentication,Conference direction economic recent fish realize necessary cultural.,2025-03-02,2025-06-15,Remediated
+VUL00493,CVE-2019-45674,AST0109,5.4,Medium,SQL Injection,Party trip huge American reach relate door expect.,2025-12-07,2026-03-16,Open
+VUL00494,CVE-2020-23251,AST0041,6.5,Medium,Authorization,Growth decision fish five training pretty work.,2025-12-18,2026-01-19,Open
+VUL00495,CVE-2024-33577,AST0051,8.5,High,RCE,Let though amount film win require.,2025-05-05,2025-05-09,Accepted Risk
+VUL00496,CVE-2020-32776,AST0097,5.5,Medium,Information Disclosure,Claim save decision morning continue dark because.,2025-12-13,2026-01-27,Remediated
+VUL00497,CVE-2021-24897,AST0138,3.6,Low,SQL Injection,One sell him finally their always kitchen.,2026-02-08,,Remediated
+VUL00498,CVE-2024-25049,AST0119,1.2,Low,Information Disclosure,Hear generation throw impact Republican since.,2025-05-08,,Accepted Risk
+VUL00499,CVE-2020-36568,AST0155,8.2,High,Information Disclosure,Number them fact least put.,2026-01-28,,Accepted Risk
+VUL00500,CVE-2023-23593,AST0164,7.1,High,RCE,Institution line professor become page stuff dog sort sound could.,2025-05-14,2025-07-02,Open

@@ -1,0 +1,201 @@
+asset_id,hostname,ip_address,asset_type,criticality,owner,location,os,last_patched_date
+AST0001,nice-everything-001,219.222.76.49,Network Device,Medium,Michael King,Port Rhondaview,Android,2025-12-18
+AST0002,partner-close-002,102.195.118.89,Database,High,Manuel Mathews,Tracybury,Android,2025-09-17
+AST0003,music-mouth-003,102.161.163.147,Endpoint,Low,Richard Brown,Karenside,macOS,2025-10-19
+AST0004,skill-last-004,57.238.136.45,Network Device,High,Tyler Rivers,North Vernon,Linux,2026-01-04
+AST0005,truth-upon-005,144.228.57.134,Database,Medium,Amy Patton,West Jacquelinemouth,Linux,2025-12-25
+AST0006,explain-maintain-006,14.109.152.197,Application,Low,Bruce Cook,West Alexandrachester,iOS,2025-10-03
+AST0007,garden-discussion-007,222.9.5.56,Endpoint,Critical,Denise White,Chelseaview,Linux,2025-12-28
+AST0008,get-science-008,30.102.242.185,Endpoint,Low,Roy Evans,West Travis,Windows,2025-11-15
+AST0009,about-which-009,120.70.92.122,Server,High,Morgan Phillips,Juarezstad,Windows,2025-12-23
+AST0010,put-cold-010,221.39.189.24,Database,Low,Megan White,Port Davidstad,Linux,2026-01-29
+AST0011,lose-final-011,68.137.196.154,Network Device,Medium,Frank Riggs,West Josephchester,Android,2026-01-07
+AST0012,available-trade-012,89.156.136.229,Application,High,Monica Andrews,Nelsonville,Android,2025-08-29
+AST0013,usually-a-013,7.150.14.110,Network Device,Critical,Eric Davis,Jessicatown,macOS,2026-01-03
+AST0014,mr-station-014,174.120.144.128,Network Device,Medium,Andrew Clark,Parkerburgh,macOS,2025-10-28
+AST0015,high-consider-015,53.36.219.35,Server,Medium,Samuel Schaefer,North Christian,Android,2025-11-25
+AST0016,wish-property-016,62.29.248.67,Network Device,High,Dr. Jessica Hall,Anthonyville,macOS,2025-09-24
+AST0017,economy-clear-017,165.226.231.57,Application,Medium,Rachel Dodson,New Toddfurt,iOS,2025-11-08
+AST0018,though-opportunity-018,75.166.25.135,Server,High,Tanya Hamilton,South Ambermouth,macOS,2025-11-26
+AST0019,sound-product-019,107.36.132.129,Application,Medium,Shannon Sanford,North Brandonton,macOS,2025-09-09
+AST0020,car-never-020,124.213.91.255,Endpoint,High,Mary Walker,Lopezmouth,Linux,2025-11-22
+AST0021,appear-house-021,217.56.157.178,Server,Low,William Lee,West Stevenmouth,iOS,2025-10-07
+AST0022,carry-wrong-022,116.75.67.181,IoT Device,Medium,Julia Espinoza,Scottview,Android,2025-11-12
+AST0023,third-rest-023,68.72.153.227,IoT Device,Critical,Lynn Levine,Caldwellborough,Windows,2025-10-05
+AST0024,land-style-024,196.227.61.125,Application,Low,Robert Macdonald,Port Dannyport,Windows,2025-09-10
+AST0025,prepare-discuss-025,6.82.65.11,IoT Device,Critical,Katie Bell,West Jamesfort,macOS,2025-09-16
+AST0026,ground-them-026,202.194.191.15,Application,Critical,Suzanne Henderson,East Maryburgh,macOS,2025-11-25
+AST0027,arrive-find-027,87.41.205.181,Endpoint,Medium,Joseph Moss,Pettyview,macOS,2026-01-09
+AST0028,take-painting-028,122.244.213.132,IoT Device,Critical,Michael Rodriguez,Lake Leroyside,Windows,2025-10-27
+AST0029,season-recent-029,38.48.96.36,Network Device,Low,Alan Turner,Janetberg,Android,2026-02-05
+AST0030,develop-paper-030,211.242.146.144,Network Device,Critical,Michelle Baker,Lake Jenny,Windows,2025-09-12
+AST0031,although-industry-031,140.170.252.112,Network Device,Low,Lindsey Nichols,South Sabrina,Linux,2025-08-26
+AST0032,sister-class-032,82.198.213.80,Application,Critical,James Green,East Robert,Linux,2025-09-23
+AST0033,region-create-033,76.191.69.56,Database,Low,Michelle Shaffer,Lake Sandraport,Linux,2025-10-21
+AST0034,down-go-034,211.167.189.215,Database,Critical,Paige Waters,Danielsshire,Windows,2026-01-09
+AST0035,one-factor-035,29.58.199.230,Database,Critical,Jay Sanchez,Harryshire,Android,2026-01-23
+AST0036,but-eye-036,9.154.142.74,Application,High,Cheyenne White,Port Robinberg,Windows,2025-11-10
+AST0037,another-bag-037,19.56.15.96,Server,Medium,Ms. Kristi Anderson,Johnhaven,Android,2025-12-01
+AST0038,response-choice-038,106.239.208.110,Database,High,Amanda Powell,North Diamondport,Linux,2025-09-17
+AST0039,seem-final-039,147.158.232.139,Network Device,High,Sean Le,East Ginamouth,Linux,2025-11-21
+AST0040,ahead-candidate-040,160.164.50.111,IoT Device,Low,Anthony Mcguire,North Pedroview,Linux,2025-12-14
+AST0041,low-before-041,137.1.219.22,Endpoint,Critical,Sarah Ware,Joneshaven,Windows,2025-12-11
+AST0042,agent-stage-042,6.197.191.83,Network Device,Critical,Eric Washington,South Stephaniefurt,Android,2025-10-21
+AST0043,arrive-indicate-043,47.172.101.42,Network Device,Low,Mr. Joshua Martinez,Lewisburgh,Linux,2025-11-27
+AST0044,involve-may-044,102.2.105.188,Network Device,High,Terri Lopez,Port Joseph,macOS,2025-08-31
+AST0045,stop-law-045,138.201.115.229,Network Device,Medium,Sarah Lane,Robertsberg,macOS,2025-10-13
+AST0046,dinner-everybody-046,203.90.67.180,IoT Device,High,Jose Pugh,Stevenston,Linux,2025-10-14
+AST0047,stage-full-047,215.170.39.204,Database,High,Jacqueline Fisher,Port Kimberly,iOS,2025-11-16
+AST0048,history-forget-048,194.34.128.247,Database,Critical,Brittany Miller,Davischester,macOS,2025-11-26
+AST0049,sign-bill-049,31.219.217.98,Database,Low,Matthew Wilson,New Catherine,macOS,2025-12-23
+AST0050,during-provide-050,22.19.183.218,Database,Low,Nicholas Ramirez,Johnmouth,macOS,2026-02-04
+AST0051,parent-term-051,218.104.10.156,Network Device,Medium,Jason Scott,Lake Jonathan,Linux,2025-09-12
+AST0052,despite-significant-052,90.74.12.67,Network Device,Low,Tasha Webb,Samanthamouth,iOS,2026-01-21
+AST0053,free-begin-053,146.181.242.104,Endpoint,Medium,Douglas Norris,New Jay,macOS,2025-11-25
+AST0054,from-example-054,103.167.152.235,Server,Critical,Sean Elliott,Lake Sergio,Android,2025-12-10
+AST0055,window-sort-055,18.76.29.174,Database,Medium,Maria Phillips,East Sarah,Windows,2025-09-30
+AST0056,already-simple-056,70.154.36.200,Network Device,Medium,Gerald Bryan,Barryborough,Linux,2025-11-09
+AST0057,perform-difference-057,140.47.6.232,Endpoint,Critical,Alexandria Rivers,Craigfurt,iOS,2025-08-30
+AST0058,environmental-store-058,157.56.227.148,IoT Device,Low,Dylan Hicks,North Kenneth,Linux,2025-09-12
+AST0059,body-position-059,185.65.64.5,Application,Low,Kenneth Mcdonald,Rochatown,iOS,2026-01-10
+AST0060,head-physical-060,203.162.114.61,Application,Critical,Craig Buck,Kristiside,macOS,2025-09-24
+AST0061,quality-call-061,155.199.24.113,Network Device,Critical,Wendy Robinson,Port Cynthia,Linux,2026-01-13
+AST0062,receive-crime-062,199.197.113.103,Database,Medium,Rachel King,Lake Ericville,Linux,2025-10-28
+AST0063,war-claim-063,213.229.67.75,Endpoint,Medium,Patricia Chen,Lake Blakechester,Android,2025-08-26
+AST0064,effect-charge-064,64.174.215.15,Application,Medium,Daniel Pierce,East Aaron,Linux,2025-12-11
+AST0065,strategy-glass-065,216.213.232.107,Server,Critical,Brianna Watson,South Michaelside,iOS,2025-09-12
+AST0066,plan-expert-066,214.73.193.225,Endpoint,Critical,Dawn Johnson,South Margaret,iOS,2026-01-02
+AST0067,great-service-067,205.106.138.122,Application,Low,Taylor Bradley,Brendastad,Android,2025-10-11
+AST0068,generation-sound-068,192.53.110.76,Database,High,Mrs. Emily Dickson,Cobbton,macOS,2025-12-19
+AST0069,back-travel-069,142.55.117.67,Server,Low,Angela Carpenter,Hannahfurt,macOS,2026-01-28
+AST0070,court-next-070,208.112.30.18,Network Device,Medium,Dr. Michael Marshall,North Brittneymouth,Windows,2025-12-04
+AST0071,bad-site-071,195.150.142.32,Server,High,Alicia Rose,Lake Sharonborough,Linux,2025-12-06
+AST0072,even-different-072,165.173.211.64,Endpoint,Medium,Christopher Hayes,Michaelland,macOS,2025-10-05
+AST0073,want-hundred-073,18.127.187.107,Network Device,Low,Tiffany Yoder,Port Brookebury,iOS,2026-01-21
+AST0074,market-something-074,155.143.162.184,Server,Low,Elizabeth Knight,Lake Lisa,iOS,2025-10-22
+AST0075,time-social-075,75.161.208.81,Application,Low,Mrs. Kendra Leon,Jonathanhaven,Android,2025-09-19
+AST0076,method-huge-076,160.88.208.186,Endpoint,High,Cory Boone,Johnsonside,Windows,2025-10-19
+AST0077,nearly-yeah-077,73.104.4.136,IoT Device,High,Justin Jensen,Taylorshire,Android,2025-09-27
+AST0078,listen-put-078,163.77.230.104,Application,Low,David Thompson,Lake Robin,macOS,2025-12-12
+AST0079,return-let-079,153.104.67.108,Database,High,Hailey Mcmillan,Davidfort,Windows,2026-02-17
+AST0080,instead-it-080,63.34.239.41,Database,Medium,Aaron Oconnell,South Desireehaven,iOS,2025-09-10
+AST0081,husband-our-081,12.142.114.135,IoT Device,High,Corey Ross,Lake Joshuachester,Linux,2025-11-22
+AST0082,cultural-energy-082,148.43.102.71,Server,Low,Charles Long,New Dennis,macOS,2025-09-21
+AST0083,at-several-083,10.50.103.176,Application,Low,Patrick Pham,Shannontown,macOS,2025-09-05
+AST0084,life-offer-084,15.133.212.94,Database,Medium,Roger Orozco,Nataliebury,Windows,2025-11-28
+AST0085,game-home-085,28.63.178.119,IoT Device,Medium,Andrew Pena,Christinaside,Windows,2026-02-16
+AST0086,industry-cover-086,91.235.176.238,IoT Device,Low,Stephen Espinoza,Johnsonport,Linux,2026-01-15
+AST0087,everything-authority-087,63.109.218.156,Server,Medium,Michael Garrison,New Cheyenne,iOS,2026-01-19
+AST0088,nice-knowledge-088,56.199.5.140,Server,High,Christine Hall,New Jenniferberg,macOS,2025-12-02
+AST0089,soon-today-089,136.75.228.173,Network Device,Critical,Ricky Kim,Port Gloriaport,iOS,2026-01-28
+AST0090,town-two-090,155.74.119.85,IoT Device,Medium,Ashley Harris,East Elizabeth,iOS,2025-10-17
+AST0091,street-explain-091,207.155.243.239,Endpoint,Medium,Laura Perez,Lake William,iOS,2026-02-12
+AST0092,plan-family-092,126.96.5.69,Endpoint,Low,Amanda Jackson,New Samantha,Android,2025-10-31
+AST0093,she-population-093,172.234.165.64,Database,Critical,Monica Houston,Paulport,iOS,2025-11-14
+AST0094,research-surface-094,44.168.46.30,Application,Critical,Nicole Norris,Joycemouth,iOS,2026-02-03
+AST0095,thing-both-095,12.10.35.12,Network Device,Medium,Christina Berry,Port Jerrybury,macOS,2026-01-21
+AST0096,major-she-096,111.225.85.50,Server,Medium,Susan Lamb,Joneschester,Android,2026-01-27
+AST0097,suggest-resource-097,26.194.25.189,IoT Device,Medium,Angela Green,Adrianburgh,Android,2025-11-30
+AST0098,thought-laugh-098,171.4.76.11,Endpoint,Critical,Tyler Garcia,New Benjamin,iOS,2025-12-22
+AST0099,tree-challenge-099,15.128.79.43,Database,Low,David Knight,Lopezstad,Linux,2025-11-28
+AST0100,according-author-100,183.238.250.170,Server,Medium,Dr. Christopher Washington,East Dustinbury,Linux,2025-11-21
+AST0101,wind-hundred-101,100.166.158.176,Application,Critical,Michael Jackson,Montesside,Linux,2026-01-28
+AST0102,message-scene-102,23.214.181.82,Network Device,Medium,Jessica Garcia,Wattsmouth,Linux,2025-11-12
+AST0103,own-set-103,86.133.234.195,Network Device,Critical,Teresa Kirby,Thomasbury,Windows,2025-09-26
+AST0104,amount-exist-104,188.119.166.183,Endpoint,Medium,Donna Waters,Colleenville,iOS,2025-12-10
+AST0105,during-data-105,31.155.115.172,Application,Medium,Larry Lopez,Rodneyland,Android,2025-12-31
+AST0106,population-star-106,92.18.47.14,Server,Medium,Anthony Lee,New Corey,macOS,2025-09-01
+AST0107,recognize-civil-107,101.177.56.225,Network Device,Low,Robert Francis,Blakeville,Windows,2025-11-03
+AST0108,list-machine-108,156.180.121.118,Network Device,Medium,Lisa Jones,East Cathyview,Linux,2025-08-29
+AST0109,agent-reason-109,92.201.194.63,Application,Medium,Jennifer Richards,New Victoriaville,macOS,2025-11-03
+AST0110,position-generation-110,223.120.255.198,Server,Low,Jennifer Baker,South Michelleville,Linux,2025-09-11
+AST0111,outside-reduce-111,208.13.51.180,Application,Medium,Jennifer Harper,Weberbury,Android,2026-01-19
+AST0112,myself-amount-112,166.215.109.48,Network Device,Low,Bailey Adams,Hoodmouth,iOS,2026-02-10
+AST0113,school-act-113,178.104.213.100,Application,High,Maria Johnson MD,Port Davidland,Linux,2025-10-02
+AST0114,race-continue-114,215.156.132.140,Application,High,Andrea Williams,Reyesport,Linux,2025-10-11
+AST0115,drug-forget-115,123.127.117.47,Endpoint,High,Wendy Jackson,East Victoriaside,Windows,2025-09-06
+AST0116,service-become-116,1.25.21.135,Server,Critical,Alexandra Harrington,Jillview,Windows,2025-12-22
+AST0117,public-write-117,56.2.194.198,Endpoint,High,Christopher Gonzalez,Hollyville,iOS,2025-08-29
+AST0118,shoulder-step-118,212.211.36.252,Endpoint,Low,Adam Evans,North Jeremy,macOS,2025-09-01
+AST0119,face-car-119,22.210.181.238,Endpoint,Critical,Dr. Cynthia Clark MD,Erikhaven,macOS,2025-12-21
+AST0120,air-last-120,63.30.19.9,Endpoint,Low,Chase Morgan,New Anna,Android,2026-01-26
+AST0121,game-believe-121,9.155.45.255,Network Device,Low,Lisa Murphy,Port Kimberlymouth,Android,2026-01-23
+AST0122,dream-prevent-122,5.234.167.167,Endpoint,Medium,Robert Anderson,North Amyshire,Android,2025-12-19
+AST0123,total-general-123,58.11.238.52,Endpoint,Low,Parker Conway,Kiddfort,Android,2025-12-12
+AST0124,wrong-receive-124,13.153.81.130,Database,High,Christina White,North Ryan,Android,2025-09-29
+AST0125,respond-practice-125,13.171.170.227,Database,Medium,Richard Lee,Wrighthaven,iOS,2025-09-02
+AST0126,father-director-126,199.97.71.57,Database,High,Hannah Garcia,Thomasfort,iOS,2026-02-05
+AST0127,traditional-question-127,177.92.216.66,IoT Device,Critical,Natalie Miller,Jacksonville,Android,2026-01-18
+AST0128,mr-degree-128,22.70.125.246,Server,Medium,Timothy Arnold,North Sharon,Android,2025-12-30
+AST0129,leader-right-129,156.215.239.206,Server,Medium,Bethany Cabrera,Baileyfurt,Linux,2025-11-21
+AST0130,assume-always-130,2.110.178.142,Database,Low,William Pennington,Sheliamouth,Windows,2025-08-25
+AST0131,little-plant-131,2.236.137.140,Server,Low,Cynthia Reid,Justinmouth,Android,2026-01-05
+AST0132,and-father-132,125.175.71.93,IoT Device,Low,Rachel Raymond,Loriport,Linux,2025-12-08
+AST0133,real-another-133,56.11.123.215,Server,Low,Jason Barrera,Lake Joy,macOS,2025-09-21
+AST0134,everybody-their-134,106.140.182.119,IoT Device,Low,Michael Brown,New Pennybury,iOS,2025-10-23
+AST0135,role-through-135,151.239.92.144,Network Device,High,Christine Young,Paulville,iOS,2025-12-08
+AST0136,best-on-136,132.164.230.205,Endpoint,Low,James Watkins,Oliverburgh,Android,2026-01-01
+AST0137,value-door-137,108.68.235.7,Network Device,High,Carolyn Perkins,Angelland,Windows,2025-10-01
+AST0138,sense-individual-138,125.120.225.188,Server,Medium,Mrs. Sherry Winters MD,New Stephanieburgh,macOS,2025-09-17
+AST0139,animal-probably-139,153.173.111.228,Database,Low,Bryce Bolton,Mcdowellstad,Linux,2025-08-22
+AST0140,write-production-140,16.225.234.103,IoT Device,Medium,Debra Austin,Barbarachester,Windows,2025-09-19
+AST0141,head-may-141,124.41.114.103,Database,Medium,Christina Jones,Port Nicholasstad,Windows,2025-10-01
+AST0142,whatever-safe-142,126.91.126.149,Database,High,Alexander Wright,South Donald,Linux,2025-12-19
+AST0143,other-fight-143,107.246.24.173,Server,High,Tammy Maldonado,Dudleymouth,Linux,2025-11-13
+AST0144,account-visit-144,98.42.187.12,Network Device,Low,Brandy Farrell,East Jared,Android,2026-01-08
+AST0145,account-trial-145,114.164.234.11,IoT Device,Medium,Justin Butler,West Mackenzietown,Linux,2025-12-25
+AST0146,price-probably-146,18.220.49.127,Database,Low,Melissa Burton,North Stephenview,iOS,2025-09-29
+AST0147,reason-radio-147,81.186.50.61,Application,Critical,Kevin Lynch,West Scott,macOS,2025-10-10
+AST0148,pressure-receive-148,123.124.8.128,Endpoint,Critical,Ivan Harrison,Hallberg,macOS,2026-02-16
+AST0149,positive-camera-149,182.189.72.4,Database,Low,Kenneth Burke,Michaelburgh,macOS,2025-10-21
+AST0150,prevent-college-150,193.102.132.194,Endpoint,Critical,Shawn Riddle,South Howardview,Android,2025-12-08
+AST0151,knowledge-culture-151,185.78.108.237,IoT Device,High,Kristy Nelson,Roberttown,macOS,2026-02-11
+AST0152,result-sometimes-152,24.143.74.16,Server,Critical,Timothy Schultz,Harrisonburgh,Android,2025-11-28
+AST0153,before-president-153,215.60.153.196,Application,Medium,Cassandra Esparza,East William,iOS,2025-11-25
+AST0154,water-mention-154,144.10.38.151,Server,High,Maria Wilson,East Melissa,iOS,2025-08-27
+AST0155,eight-continue-155,197.190.69.218,Database,Critical,Erin Li,Sheltonport,Linux,2025-09-09
+AST0156,crime-rock-156,170.182.103.197,Network Device,Critical,Belinda Cannon,New Heather,Windows,2026-01-21
+AST0157,realize-ability-157,162.176.57.95,Database,High,Rachel Turner,Brewerstad,Linux,2025-08-26
+AST0158,glass-admit-158,2.64.216.253,Server,Low,Brandon Richard,East Carolinetown,Windows,2026-01-01
+AST0159,exactly-recently-159,28.71.189.80,Application,Low,Kimberly Rice,East Alicia,iOS,2025-12-16
+AST0160,relate-city-160,108.185.13.203,Network Device,Critical,Alyssa Fitzpatrick,Lake Scott,Android,2025-11-17
+AST0161,home-finish-161,68.61.38.68,Server,Low,Darrell Lambert,Olsonburgh,iOS,2025-11-09
+AST0162,total-poor-162,46.90.179.147,Database,Low,John Berry,West Michaelfort,Android,2025-08-25
+AST0163,sort-since-163,7.232.39.185,Application,Medium,Richard Bowman,Oliverland,iOS,2025-10-03
+AST0164,human-baby-164,60.85.88.37,Endpoint,Medium,Jay Lloyd,West Meagan,Linux,2025-12-25
+AST0165,plan-at-165,76.245.52.129,Database,Medium,Rebecca Weiss,Reidfort,iOS,2026-02-04
+AST0166,program-speech-166,101.59.149.132,Database,Medium,Marie Lopez,South Reneeview,Linux,2025-09-23
+AST0167,it-family-167,137.90.49.239,IoT Device,Critical,Adam Brown,Richardsonfort,iOS,2026-01-02
+AST0168,quality-actually-168,170.2.84.244,Application,High,Tiffany Castillo,East Kirstenfurt,iOS,2025-10-26
+AST0169,range-just-169,200.190.152.166,Server,Low,Andrew Roach,Alvaradoton,Windows,2025-12-06
+AST0170,understand-power-170,60.117.106.178,Network Device,Medium,Michele Chavez,South Martinfort,Linux,2025-12-15
+AST0171,pretty-same-171,213.14.221.204,Endpoint,Critical,John Salas,Johnborough,Windows,2025-10-06
+AST0172,bed-sit-172,189.218.113.43,Server,Critical,John Garcia,East Apriltown,macOS,2025-12-06
+AST0173,nation-politics-173,126.57.223.30,Network Device,Critical,Dr. Joshua Clayton,East Donald,Android,2026-01-06
+AST0174,media-manage-174,78.224.160.178,Server,Medium,Amber Steele,Briannaland,Windows,2025-09-04
+AST0175,old-live-175,46.153.188.87,Network Device,Low,Stephen Silva DDS,New Bobbystad,Windows,2025-09-29
+AST0176,easy-quality-176,47.41.37.90,Endpoint,High,David Gutierrez Jr.,Port Tracyfort,Linux,2025-10-11
+AST0177,book-in-177,65.22.49.142,Application,Medium,Robert Murray,North Nancymouth,iOS,2026-02-09
+AST0178,save-sound-178,95.225.248.46,Endpoint,Low,Sara Moore,Andrewton,iOS,2025-11-13
+AST0179,process-although-179,147.169.78.237,Endpoint,Medium,Tina Taylor,Port Trevor,macOS,2025-12-06
+AST0180,need-fine-180,39.232.65.22,Application,Medium,Larry Ellis,Richardshire,Windows,2025-10-23
+AST0181,same-laugh-181,182.135.215.137,Network Device,Medium,Terry Perez,Port Brianmouth,Windows,2025-10-10
+AST0182,four-spring-182,33.78.40.65,Server,High,Morgan Ford,East Rosemouth,Windows,2026-02-11
+AST0183,operation-now-183,169.226.236.146,IoT Device,High,David Anderson,Aliciatown,Linux,2025-12-16
+AST0184,ready-i-184,46.206.68.175,Application,High,Janice Roberts,East Victoria,Windows,2025-10-31
+AST0185,eat-news-185,188.206.114.233,IoT Device,High,Joshua Ryan,East Davidberg,Android,2025-11-23
+AST0186,should-about-186,219.221.113.160,Database,High,Frank Sanchez,Walshbury,Android,2026-01-15
+AST0187,enough-over-187,41.171.208.211,Application,Critical,Laura Larson,Aprilchester,Windows,2025-09-23
+AST0188,recent-agent-188,59.145.230.188,Application,Medium,Kenneth Walker,Christophertown,Windows,2026-02-07
+AST0189,statement-tell-189,141.194.29.112,Server,Critical,Mary Peterson DVM,North Lisafort,Windows,2025-11-15
+AST0190,participant-news-190,53.69.49.86,Endpoint,High,Lisa Grimes,Christopherchester,macOS,2026-02-01
+AST0191,color-resource-191,88.44.210.67,IoT Device,Medium,Misty Wells MD,Port Jane,macOS,2025-09-09
+AST0192,rather-force-192,69.22.249.123,Network Device,Critical,Kevin Young,Wallacestad,Linux,2025-08-30
+AST0193,word-everyone-193,108.117.234.207,Endpoint,High,Debra Webster,Davidshire,Linux,2025-10-27
+AST0194,meeting-candidate-194,134.121.215.114,Network Device,Medium,Robert Pennington,Port Robertberg,Windows,2026-02-04
+AST0195,that-today-195,132.147.102.147,IoT Device,High,Juan Johnston,Nicoleland,Linux,2026-01-02
+AST0196,treat-role-196,86.247.159.16,IoT Device,High,Jeanette Thomas,Taylorville,iOS,2025-10-30
+AST0197,eat-argue-197,90.180.38.201,Endpoint,Critical,Kelly Garza,Lauriebury,Windows,2026-01-08
+AST0198,reality-leader-198,72.102.199.185,Network Device,Low,Theresa Baker,Nicoleland,macOS,2025-10-07
+AST0199,value-yet-199,162.3.25.250,Endpoint,Low,Sandy Dawson,Silvamouth,Linux,2025-12-28
+AST0200,summer-program-200,216.175.145.38,IoT Device,Low,Dylan Baker,Sarahfurt,Windows,2026-01-30

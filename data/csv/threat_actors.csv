@@ -1,0 +1,51 @@
+actor_id,name,actor_type,country_origin,ttps,active_since,sophistication_level
+TA001,Fill Who,Criminal Gang,HT,"Supply Chain Attack, DDoS",2023-05-22,Medium
+TA002,Money Other,APT,SN,"Data Exfiltration, Malware Deployment, Spear Phishing",2020-10-09,Low
+TA003,Energy Congress,Criminal Gang,MR,"Supply Chain Attack, Social Engineering",2017-10-31,Medium
+TA004,Save Important,Hacktivist,MA,"SQL Injection, Supply Chain Attack",2022-07-17,Low
+TA005,Education Price,Hacktivist,BD,DDoS,2019-01-05,High
+TA006,War At,Insider Threat,MV,Privilege Escalation,2020-10-27,Very High
+TA007,Cut No,Hacktivist,CI,"Spear Phishing, Social Engineering",2019-12-04,Medium
+TA008,Believe Thank,Criminal Gang,UA,"SQL Injection, Spear Phishing",2019-04-09,Very High
+TA009,Water Apply,Hacktivist,LR,"Malware Deployment, Social Engineering",2024-11-27,Low
+TA010,Most Ever,APT,AR,SQL Injection,2023-03-09,Low
+TA011,Loss Month,Hacktivist,FJ,"DDoS, SQL Injection",2017-10-04,Low
+TA012,Ok Too,Hacktivist,ID,"Social Engineering, Data Exfiltration",2016-08-16,Low
+TA013,Look Us,Criminal Gang,EC,"Spear Phishing, Data Exfiltration",2019-12-17,Medium
+TA014,Campaign Light,APT,SC,"Data Exfiltration, Social Engineering",2023-02-12,Low
+TA015,Account Must,Criminal Gang,BI,"Spear Phishing, Social Engineering",2017-06-19,High
+TA016,Reality Goal,Hacktivist,NP,Malware Deployment,2017-07-22,High
+TA017,Election Option,Insider Threat,UA,Data Exfiltration,2020-08-20,Very High
+TA018,Machine Debate,APT,DJ,"DDoS, SQL Injection, Social Engineering",2023-09-04,Very High
+TA019,Enter Night,Criminal Gang,CI,"DDoS, Privilege Escalation",2020-06-18,High
+TA020,Both Test,APT,SA,"Social Engineering, Supply Chain Attack, DDoS",2022-03-08,High
+TA021,Something Meet,APT,IE,"Spear Phishing, Data Exfiltration",2023-01-01,Very High
+TA022,Drive Go,Insider Threat,NA,"Supply Chain Attack, Social Engineering, Spear Phishing",2021-06-29,Very High
+TA023,Pass Quickly,Insider Threat,DM,Privilege Escalation,2016-09-08,High
+TA024,Campaign Court,APT,AF,"Data Exfiltration, Malware Deployment",2016-05-24,Very High
+TA025,Policy Goal,Hacktivist,SR,DDoS,2023-03-25,Medium
+TA026,Which Reduce,Insider Threat,AO,"Malware Deployment, Supply Chain Attack",2016-12-04,Low
+TA027,General Up,Criminal Gang,SD,"Supply Chain Attack, Data Exfiltration, Malware Deployment",2022-10-15,Medium
+TA028,News About,Insider Threat,CZ,"Social Engineering, Malware Deployment, SQL Injection",2017-12-15,Low
+TA029,Authority Forward,Hacktivist,MA,"Spear Phishing, Social Engineering, SQL Injection",2016-12-04,Medium
+TA030,Store When,APT,KE,"Privilege Escalation, SQL Injection",2022-05-07,High
+TA031,Capital Stuff,APT,KZ,"Supply Chain Attack, Privilege Escalation",2017-05-12,High
+TA032,Deep Everything,Insider Threat,SR,"Spear Phishing, Privilege Escalation",2020-04-24,Very High
+TA033,Trial Page,Insider Threat,ZM,"Malware Deployment, Spear Phishing, DDoS",2017-10-08,Low
+TA034,Every East,APT,ML,DDoS,2024-05-25,Medium
+TA035,Through Nothing,Insider Threat,MG,"SQL Injection, Spear Phishing",2018-09-22,High
+TA036,Fund Score,Insider Threat,RU,SQL Injection,2019-06-07,High
+TA037,Be Mouth,APT,SN,"Privilege Escalation, Social Engineering",2021-04-21,High
+TA038,For Face,APT,BD,"Data Exfiltration, Privilege Escalation, Spear Phishing",2018-07-07,Medium
+TA039,School Culture,Hacktivist,MD,"Data Exfiltration, DDoS, SQL Injection",2024-12-15,Medium
+TA040,Bad Front,Criminal Gang,BW,Privilege Escalation,2016-06-18,Low
+TA041,Also Smile,Hacktivist,BG,"Privilege Escalation, Social Engineering",2023-03-22,Low
+TA042,Fall Result,Hacktivist,CN,"Supply Chain Attack, Privilege Escalation, Spear Phishing",2024-04-29,Low
+TA043,Life Present,Insider Threat,BT,"Supply Chain Attack, Social Engineering",2022-04-12,Very High
+TA044,Several Candidate,Hacktivist,SY,"Malware Deployment, Privilege Escalation, Social Engineering",2023-09-13,High
+TA045,Certainly Life,APT,SA,SQL Injection,2016-08-10,Low
+TA046,Trip Guess,Hacktivist,UG,"Supply Chain Attack, Social Engineering, Privilege Escalation",2022-04-15,Low
+TA047,Difficult Then,Insider Threat,LU,"Supply Chain Attack, Privilege Escalation",2025-01-28,Low
+TA048,Buy Mention,Criminal Gang,PW,SQL Injection,2024-09-29,Low
+TA049,Test Look,Hacktivist,NP,"Social Engineering, DDoS, Supply Chain Attack",2016-07-26,Medium
+TA050,Whatever Range,Criminal Gang,RW,Supply Chain Attack,2017-08-28,Very High
