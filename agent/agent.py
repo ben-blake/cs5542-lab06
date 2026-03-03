@@ -7,11 +7,23 @@ natural-language questions about the cybersecurity database.
 import os
 from dotenv import load_dotenv
 import google.generativeai as genai
+import streamlit as st
 
 from agent.tool_schemas import TOOLS
 from agent import tools as tool_fns
 
 load_dotenv()
+
+
+def _get_secret(key):
+    """Read from env vars (local) or st.secrets (Streamlit Cloud)."""
+    val = os.getenv(key)
+    if val:
+        return val
+    try:
+        return st.secrets[key]
+    except (KeyError, FileNotFoundError):
+        return None
 
 SYSTEM_PROMPT = """You are a cybersecurity analyst assistant with access to tools \
 that query a live Snowflake security database containing assets, vulnerabilities, \
@@ -54,7 +66,7 @@ def run_agent(user_query: str, conn) -> tuple[str, list[dict]]:
         Tuple of (final_answer: str, tool_log: list[dict]).
         tool_log entries have keys: 'tool', 'args', 'result_preview'.
     """
-    api_key = os.getenv("GEMINI_API_KEY")
+    api_key = _get_secret("GEMINI_API_KEY")
     if not api_key:
         return "Error: GEMINI_API_KEY not set in environment.", []
 
