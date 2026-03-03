@@ -32,15 +32,13 @@
 
 ## Links to Commits / Pull Requests
 
-> **Note:** This repository uses manual git management. Commit hashes will be added after the final commit is made.
-
 | Component | Commit |
 |-----------|--------|
-| Environment and Dependency Management | *(pending)* |
-| Dashboard Implementation | *(pending)* |
-| Synthetic Data | *(pending)* |
-| Antigravity Report | *(pending)* |
-| Pipeline Diagram | *(pending)* |
+| Environment and Dependency Management | [`a951053`](https://github.com/ben-blake/cs5542-lab06/commit/a951053) |
+| Dashboard Implementation | [`bc2b9a2`](https://github.com/ben-blake/cs5542-lab06/commit/bc2b9a2) |
+| Synthetic Data | [`b562170`](https://github.com/ben-blake/cs5542-lab06/commit/b562170) |
+| Antigravity Report | [`6b001a3`](https://github.com/ben-blake/cs5542-lab06/commit/6b001a3) |
+| Pipeline Diagram | [`3bc18d8`](https://github.com/ben-blake/cs5542-lab06/commit/3bc18d8) |
 
 ---
 
